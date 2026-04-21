@@ -1,0 +1,3 @@
+- `poisoning using medicine list.ipynb`  main work file
+- `medicine list.ipynb` creates `unique_medicine_names.txt` from `Afregistrerede_Laegemidler.xls` and `ListeOverGodkendteLaegemidler.xlsx`
+- `Old work` old files for reference
