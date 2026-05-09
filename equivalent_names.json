@@ -72,10 +72,6 @@
     "zyrtec"
   ],
   [
-    "alnok",
-    "cetirizin"
-  ],
-  [
     "aloxi",
     "palonosetron",
     "palonosetronhydrochlorid"
@@ -129,12 +125,6 @@
     "violetta"
   ],
   [
-    "cifin",
-    "ciloxan",
-    "ciprofloxacin",
-    "ciprofloxacinhydrochlorid, vandfrit"
-  ],
-  [
     "creon",
     "creon 10.000",
     "creon 20.000",
@@ -178,6 +168,7 @@
   [
     "fotil",
     "fotil forte",
+    "pilocarpinhydrochlorid, timolol",
     "pilocarpinhydrochlorid, timololmaleat"
   ],
   [
@@ -185,11 +176,6 @@
     "sapropterin",
     "sapropterin dipharma",
     "sapropterinhydrochlorid"
-  ],
-  [
-    "losec",
-    "omeprazol",
-    "omeprazolmagnesium"
   ],
   [
     "mesna",
@@ -252,14 +238,11 @@
   [
     "acular",
     "caloket",
+    "ketorolac",
     "ketorolac trometamol",
     "ketorolactrometamol",
     "ketromol",
     "toradol"
-  ],
-  [
-    "acular",
-    "ketorolac"
   ],
   [
     "adhesa",
@@ -274,9 +257,14 @@
     "advagraf",
     "dailiport",
     "envarsus",
+    "modigraf",
+    "prograf",
+    "protopic",
     "roltisa",
     "tacforius",
     "tacrolimus",
+    "tacrolimus (vandfrit)",
+    "tacrolimus accord",
     "tacrolimus carefarm",
     "tacrolimusmonohydrat",
     "tacronova",
@@ -285,6 +273,7 @@
   [
     "advate",
     "helixate nexgen",
+    "koagulationsfaktor viii (rdna), humant",
     "kogenate",
     "kogenate bio-set",
     "kovaltry",
@@ -319,6 +308,7 @@
     "aforbe",
     "ambofoz",
     "beclometasondipropionat, formoterolfumarat dihydrat",
+    "beclometasondipropionatmonohydrat, formoterolfumarat dihydrat",
     "befoair",
     "forobec",
     "innovair",
@@ -364,10 +354,12 @@
   ],
   [
     "alimta",
+    "armisarte",
     "pemetrexed",
     "pemetrexed hospira",
     "pemetrexed pfizer",
-    "pemetrexeddinatrium"
+    "pemetrexeddinatrium",
+    "pemetrexeddinatrium 2,5-hydrat"
   ],
   [
     "aluvia",
@@ -577,11 +569,15 @@
     "costad",
     "dorlatim",
     "dorzolamid/timolol",
+    "dorzolamid/timolol carefarm",
     "dorzolamide/timolol",
     "dorzolamidhydrochlorid, timololmaleat",
     "duokopt",
+    "fixaprost",
     "odyralduo",
     "tidimaz",
+    "timolol, kombinationer",
+    "tirzopt",
     "vizidorduo"
   ],
   [
@@ -590,6 +586,7 @@
     "eucreas",
     "icandra",
     "ipinzan",
+    "metformin og vildagliptin",
     "metforminhydrochlorid, vildagliptin",
     "tutecvi combi",
     "vedfa",
@@ -624,12 +621,9 @@
   ],
   [
     "diclin",
-    "dicloxacillin"
-  ],
-  [
-    "diclin",
     "dicloxacillin",
-    "dicloxacillinnatrium (vandfrit)"
+    "dicloxacillinnatrium (vandfrit)",
+    "dicloxacillinnatrium monohydrat"
   ],
   [
     "dzuveo",
@@ -645,7 +639,15 @@
   ],
   [
     "edluar",
-    "zolpidem"
+    "stilnoct",
+    "zolcare",
+    "zolpidem",
+    "zolpidem carefarm",
+    "zolpidem hexal",
+    "zolpidem tartrat",
+    "zolpidem viatris",
+    "zolpidemtartrat",
+    "zonoct"
   ],
   [
     "efient",
@@ -663,6 +665,7 @@
   [
     "elgera",
     "latuda",
+    "lurasidon",
     "lurasidone",
     "lurasidonhydrochlorid"
   ],
@@ -679,11 +682,13 @@
   [
     "eradia",
     "flagyl",
+    "flagyl-s",
     "metrobactin vet.",
     "metrocare vet.",
     "metronidazol",
     "metronidazol carefarm",
     "metronidazol viaflo",
+    "metronidazolbenzoat",
     "metronidazole",
     "metronivet",
     "metrovis",
@@ -700,18 +705,6 @@
     "ervebo",
     "rvsv, zaire ebola virus (levende, svækket)(zebov-gp)",
     "zabdeno"
-  ],
-  [
-    "esodec",
-    "esomeprazol"
-  ],
-  [
-    "esomel",
-    "esomeprazol",
-    "esomeprazol carefarm",
-    "esomeprazole",
-    "esomeprazolmagnesium",
-    "nexizol"
   ],
   [
     "euplix",
@@ -732,16 +725,11 @@
   [
     "exelon",
     "nimvastid",
-    "rivastigmin",
-    "rivastigmine",
-    "rivastigminhydrogentartrat"
-  ],
-  [
-    "exelon",
     "prometax",
     "rigmin",
     "rivastigmin",
     "rivastigmine",
+    "rivastigminhydrogentartrat",
     "rivastor",
     "strivalon"
   ],
@@ -762,11 +750,6 @@
     "timolol, travoprost"
   ],
   [
-    "flagyl",
-    "flagyl-s",
-    "metronidazolbenzoat"
-  ],
-  [
     "fluenz",
     "influenza a/massachusetts/18/2022 (a/h3n2) virus, influenza a/wisconsin/67/2022 (a/h1n1) virus, influenza b/austria/1359417/2021 (b/victoria lineage) virus,"
   ],
@@ -785,10 +768,6 @@
     "jalra",
     "vildagliptin",
     "xiliarx"
-  ],
-  [
-    "glucos",
-    "glucose, vandfri"
   ],
   [
     "gopten",
@@ -836,11 +815,6 @@
     "vasokinox"
   ],
   [
-    "invega",
-    "paliperidon",
-    "palmeux"
-  ],
-  [
     "isemid",
     "torasemid, vandfri",
     "upcard"
@@ -877,10 +851,6 @@
     "tilamir"
   ],
   [
-    "latuda",
-    "lurasidon"
-  ],
-  [
     "livial",
     "tibocina",
     "tibolon"
@@ -890,6 +860,8 @@
     "medrol vet.",
     "methylprednisolon",
     "methylprednisolone",
+    "methylprednisolonnatriumsuccinat",
+    "methylprednisolonnatriumsuccinat, methylprednisolonsuccinat",
     "solu-medrol"
   ],
   [
@@ -907,14 +879,6 @@
   [
     "natpar",
     "parathyroid hormon"
-  ],
-  [
-    "nebido",
-    "testonur",
-    "testosteron",
-    "testosterone",
-    "testosteronundecanoat",
-    "tozaron"
   ],
   [
     "neomay",
@@ -968,10 +932,7 @@
   ],
   [
     "prialt",
-    "ziconotid"
-  ],
-  [
-    "prialt",
+    "ziconotid",
     "ziconotidacetat"
   ],
   [
@@ -992,20 +953,21 @@
   ],
   [
     "tailan",
+    "tilsing vet.",
     "tylan vet.",
     "tylmasin",
     "tylocure",
     "tylogran",
+    "tylosin",
     "tylosin vet.",
-    "tylosintartrat"
+    "tylosinphosphat",
+    "tylosintartrat",
+    "tylovet",
+    "tylucyl"
   ],
   [
     "tasmar",
     "tolcapon"
-  ],
-  [
-    "triobe",
-    "vitamin b-complex, incl. kombinationer"
   ],
   [
     "wilzin",
@@ -1013,20 +975,29 @@
   ],
   [
     "zeldox",
+    "zipranova",
     "ziprasidon",
     "ziprasidone",
-    "ziprasidonhydrochlorid"
-  ],
-  [
-    "zeldox",
+    "ziprasidonhydrochlorid",
     "ziprasidonmesilat"
   ],
   [
     "abigerd",
     "dansiglat",
+    "esodec",
+    "esomel",
     "esomeprazol",
+    "esomeprazol carefarm",
+    "esomeprazol sun",
+    "esomeprazole",
+    "esomeprazolemagnesiumtrihydrat",
+    "esomeprazolmagnesium",
     "esomeprazolmagnesiumdihydrat",
+    "esomeprazolnatrium",
     "esoref",
+    "nexium",
+    "nexium control",
+    "nexizol",
     "ulcerex"
   ],
   [
@@ -1034,6 +1005,7 @@
     "abilify maintena",
     "aripiprazol",
     "aripiprazole",
+    "aripiprazolmonohydrat",
     "arpoya"
   ],
   [
@@ -1059,22 +1031,18 @@
   [
     "abstral",
     "actiq",
+    "durogesic",
     "effentora",
     "fentadon vet.",
     "fentanyl",
+    "fentanyl carefarm",
     "fentanylcitrat",
+    "haldid",
     "instanyl",
     "instanyl doseguard",
-    "pecfent"
-  ],
-  [
-    "abstral",
-    "durogesic",
-    "fentanyl",
-    "fentanyl carefarm",
-    "haldid",
     "lafene",
     "matrifen",
+    "pecfent",
     "sublifen"
   ],
   [
@@ -1095,12 +1063,14 @@
     "gastrogard",
     "hippozol vet.",
     "lappoxo",
+    "losec",
     "omedipram",
     "omeprazol",
     "omeprazol carefarm",
     "omeprazol pensa",
     "omeprazole",
     "omeprazole triviumvet",
+    "omeprazolmagnesium",
     "omestad",
     "omezolin",
     "pedippi",
@@ -1110,8 +1080,10 @@
     "aclasta",
     "zoledo",
     "zoledronsyre",
+    "zoledronsyre hospira",
     "zoledronsyre teva",
     "zoledronsyre, monohydrat",
+    "zoledronsyre, vandfri",
     "zolestad",
     "zometa"
   ],
@@ -1251,19 +1223,15 @@
   ],
   [
     "aitgrys",
-    "almindelig hundegræs (græspollenallergen), almindelig rajgræs (græspollenallergen), engrapgræs (græspollenallergen), engrottehale (græspollenallergen), vellugtende gulaks (græspollenallergen)"
-  ],
-  [
-    "aitgrys",
+    "alk (225) phleum pratense",
+    "almindelig hundegræs (græspollenallergen), almindelig rajgræs (græspollenallergen), engrapgræs (græspollenallergen), engrottehale (græspollenallergen), vellugtende gulaks (græspollenallergen)",
+    "engrottehale (græspollenallergen)",
     "grazax",
     "græspollen"
   ],
   [
     "akynzeo",
-    "fosnetupitantchloridhydrochlorid, palonosetronhydrochlorid"
-  ],
-  [
-    "akynzeo",
+    "fosnetupitantchloridhydrochlorid, palonosetronhydrochlorid",
     "netupitant, palonosetronhydrochlorid"
   ],
   [
@@ -1303,7 +1271,9 @@
   ],
   [
     "alkeran",
-    "melphalan"
+    "melphalan",
+    "melphalanhydrochlorid",
+    "phelinun"
   ],
   [
     "alkindi",
@@ -1367,6 +1337,7 @@
     "losarstad",
     "losartan",
     "losartankalium",
+    "myrlosar",
     "sarlopax"
   ],
   [
@@ -1433,8 +1404,12 @@
   ],
   [
     "aprokam",
+    "cefudoc",
     "cefuroxim",
-    "cefuroximnatrium"
+    "cefuroxim carefarm",
+    "cefuroximaxetil",
+    "cefuroximnatrium",
+    "zinnat"
   ],
   [
     "aprovel",
@@ -1449,6 +1424,7 @@
   ],
   [
     "aqualec",
+    "elektrolytter",
     "hydreringsvæske",
     "natriumchlorid",
     "natriumklorid",
@@ -1490,26 +1466,29 @@
     "candemox",
     "canderion",
     "candesartan",
+    "candesartan krka",
     "candesartan ”stada arzneimittel ag”",
     "candesartancilexetil",
     "candesartancilexetil carefarm",
     "candesartancilexetil copyfarm",
     "kairasec",
-    "kandrozid"
+    "kandrozid",
+    "sarcanor"
   ],
   [
     "atorker",
     "atorvastatin",
-    "atorvastatincalcium"
+    "atorvastatin xiromed",
+    "atorvastatincalcium",
+    "atorvastatincalcium (trihydrat)",
+    "lambrinex",
+    "lipistad",
+    "zarator"
   ],
   [
     "atropin",
     "atropine",
     "atropinsulfat",
-    "ryjunea"
-  ],
-  [
-    "atropin",
     "rafaject",
     "ryjunea"
   ],
@@ -1549,6 +1528,7 @@
     "azelastinhydrochlorid/fluticasonpropionat",
     "duonasa",
     "dymista",
+    "fluticason, kombinationer",
     "flutista",
     "lutonaze",
     "zymeduo"
@@ -1556,12 +1536,16 @@
   [
     "azilect",
     "rasagilin",
-    "rasagilinmesilat"
+    "rasagiline",
+    "rasagilinmesilat",
+    "rasagilintartrat"
   ],
   [
     "baqsimi",
+    "glucagen",
     "glucagen hypokit",
     "glucagon",
+    "glucagonhydrochlorid",
     "ogluo"
   ],
   [
@@ -1583,10 +1567,12 @@
     "bekuval",
     "bemeson",
     "betamethason",
+    "betamethasondipropionat",
     "betamethasonvalerat",
     "betnovat",
     "betnovate",
-    "bettamousse"
+    "bettamousse",
+    "diproderm"
   ],
   [
     "bemfola",
@@ -1663,10 +1649,7 @@
   [
     "brentan",
     "daktarin",
-    "miconazol"
-  ],
-  [
-    "brentan",
+    "miconazol",
     "miconazolnitrat"
   ],
   [
@@ -1703,6 +1686,7 @@
     "byannli",
     "dopelir",
     "egoropal",
+    "invega",
     "niapelf",
     "paliperidon",
     "paliperidone",
@@ -1783,13 +1767,6 @@
     "cefepimdihydrochloridmonohydrat"
   ],
   [
-    "cefudoc",
-    "cefuroxim",
-    "cefuroxim carefarm",
-    "cefuroximaxetil",
-    "zinnat"
-  ],
-  [
     "cegfila",
     "dyrupeg",
     "fulphila",
@@ -1815,17 +1792,13 @@
     "cepedex",
     "dexdomitor",
     "dexdor",
-    "dexmedetomidin",
-    "dexmopet vet.",
-    "sileo"
-  ],
-  [
-    "cepedex",
     "dexdormostart vet.",
     "dexmedetomidin",
     "dexmedetomidine",
     "dexmedetomidinhydrochlorid",
-    "sedadex"
+    "dexmopet vet.",
+    "sedadex",
+    "sileo"
   ],
   [
     "cerenia",
@@ -1845,6 +1818,7 @@
     "civarenix startpakke",
     "vareniclin",
     "vareniclin startpakke",
+    "vareniclincitrat",
     "varenicline",
     "varenicline startpakke",
     "vareniclintartrat"
@@ -1856,16 +1830,16 @@
   [
     "cilodex",
     "ciloxadex",
-    "ciprofloxacinhydrochlorid (monohydrat), dexamethason"
-  ],
-  [
-    "cilodex",
+    "ciprofloxacinhydrochlorid (monohydrat), dexamethason",
     "dexamethason og antiinfektiva"
   ],
   [
     "cohemin",
+    "cyanokit",
     "hydroxocobalamin",
-    "hydroxocobalaminacetat"
+    "hydroxocobalaminacetat",
+    "hydroxocobalaminchloride",
+    "vibeden"
   ],
   [
     "columvi",
@@ -1874,12 +1848,6 @@
   [
     "coxevac",
     "coxiella burnetii stamme nine mile phase i"
-  ],
-  [
-    "crestor",
-    "rosudia",
-    "rosuvastatin",
-    "roswera"
   ],
   [
     "cubicin",
@@ -1931,13 +1899,17 @@
   [
     "denerid",
     "duotam",
+    "duta tamsaxiro",
     "dutamsine",
     "dutastem",
+    "dutasterid, tamsulosinhydrochlorid",
     "dutasterid/tamsulosinhydrochlorid",
+    "dutasteride/tamsulosinhydrochloride",
     "dutatex",
     "hydutam",
     "prostaduo",
-    "tamsulosin og dutasterid"
+    "tamsulosin og dutasterid",
+    "unisol"
   ],
   [
     "depolan",
@@ -1964,8 +1936,11 @@
     "estradiol carefarm",
     "estradiolhemihydrat",
     "estrifam",
+    "estring",
     "estrofem",
     "estrofem mite",
+    "estrogel",
+    "incurin",
     "lenzetto",
     "menovag",
     "oestablet",
@@ -1973,7 +1948,8 @@
     "sisare",
     "vagifem",
     "vagirux",
-    "vivelle dot"
+    "vivelle dot",
+    "østradiol"
   ],
   [
     "dogstem",
@@ -2011,10 +1987,6 @@
     "fluvoxaminmaleat"
   ],
   [
-    "duodopa",
-    "foscarbidopa, foslevodopa"
-  ],
-  [
     "duotrav",
     "eltenodo",
     "timololmaleat, travoprost",
@@ -2024,10 +1996,6 @@
   [
     "duvyzat",
     "givinostathydrochloridmonohydrat"
-  ],
-  [
-    "dymista",
-    "fluticason, kombinationer"
   ],
   [
     "easotic",
@@ -2041,13 +2009,16 @@
   ],
   [
     "ebetrex",
+    "emthexate",
     "injexate",
     "jylamvo",
     "metex",
+    "metex pen",
     "methofill",
     "methotrexat",
     "methotrexat ebewe",
     "methotrexate",
+    "methotrexatnatrium",
     "nordimet",
     "trexan"
   ],
@@ -2060,11 +2031,6 @@
     "tabelecleucel"
   ],
   [
-    "edevira",
-    "entecavir",
-    "entecavir (monohydrat)"
-  ],
-  [
     "edurant",
     "rilpivirinhydrochlorid"
   ],
@@ -2074,14 +2040,29 @@
     "panofen",
     "vefamyl",
     "venlafaxin",
+    "venlafaxin sandoz",
     "venlafaxinhydrochlorid"
   ],
   [
     "efficib",
+    "forminet",
+    "glerova",
     "janumet",
+    "lyomet",
+    "metformin",
+    "metformin og sitagliptin",
+    "metforminhydrochlorid",
+    "metforminhydrochlorid, sitagliptin",
+    "metforminhydrochlorid, sitagliptinhydrochlorid",
+    "metforminhydrochlorid, sitagliptinhydrochlorid, sitagliptinhydrochloridmonohydrat",
+    "metforminhydrochlorid, sitagliptinhydrochloridmonohydrat",
     "metforminhydrochlorid, sitagliptinphosphatmonohydrat",
+    "mitforgen",
     "ristfor",
     "sitagliptin/metformin",
+    "sitagliptin/metformin hydrochloride accord",
+    "sitagliptin/metformin hydrochloride mylan",
+    "sitagliptin/metforminhydrochlorid",
     "velmetia"
   ],
   [
@@ -2092,11 +2073,6 @@
     "frontect (til hunde 20-40 kg)",
     "frontect (til hunde 40-60 kg)",
     "frontect (til hunde 5-10 kg)"
-  ],
-  [
-    "efigalo",
-    "fingod",
-    "fingolimod"
   ],
   [
     "ekterly",
@@ -2116,12 +2092,9 @@
     "esmya",
     "femke",
     "ulinox",
+    "ulipristal",
     "ulipristal acetate",
     "ulipristalacetat"
-  ],
-  [
-    "ellaone",
-    "ulipristal"
   ],
   [
     "emadine",
@@ -2208,7 +2181,10 @@
   ],
   [
     "fesotaz",
-    "fesoterodin"
+    "fesoterodin",
+    "fesoterodine",
+    "fesoterodinfumarat",
+    "toviaz"
   ],
   [
     "fibclot",
@@ -2232,7 +2208,9 @@
   [
     "firazyr",
     "icatibant",
-    "icatibant accord"
+    "icatibant accord",
+    "icatibantacetat",
+    "idanuz"
   ],
   [
     "flixabi",
@@ -2252,13 +2230,11 @@
   ],
   [
     "fludara",
+    "fludarabin",
     "fludarabinphosphat"
   ],
   [
     "folimet",
-    "folsyre"
-  ],
-  [
     "folsyre",
     "folsyrehydrat"
   ],
@@ -2293,11 +2269,6 @@
     "strifus"
   ],
   [
-    "fucidin",
-    "fucidine",
-    "natriumfusidat"
-  ],
-  [
     "fycompa",
     "perampanel"
   ],
@@ -2318,19 +2289,15 @@
   ],
   [
     "glepark",
+    "mariprax",
     "mirapexin",
     "oprymea",
     "pramipexol",
+    "pramipexol aurobindo",
     "pramipexol eg",
     "pramipexoldihydrochloridmonohydrat",
     "pramipexole",
     "sifrol"
-  ],
-  [
-    "glerova",
-    "metforminhydrochlorid, sitagliptinhydrochloridmonohydrat",
-    "sitagliptin/metformin",
-    "sitagliptin/metforminhydrochlorid"
   ],
   [
     "gobivaz",
@@ -2357,9 +2324,6 @@
   [
     "harvoni",
     "ledipasvir, sofosbuvir"
-  ],
-  [
-    "heparin"
   ],
   [
     "heparin",
@@ -2431,10 +2395,6 @@
     "sumatriptansuccinat"
   ],
   [
-    "imigran",
-    "sumatriptan"
-  ],
-  [
     "imlygic",
     "talimogenlaherparepvec"
   ],
@@ -2477,23 +2437,12 @@
   ],
   [
     "innohep",
-    "tinzaparin"
-  ],
-  [
-    "innohep",
+    "tinzaparin",
     "tinzaparinnatrium"
   ],
   [
     "iohexol",
     "omnipaque"
-  ],
-  [
-    "januvia",
-    "ristaben",
-    "sitagliptin",
-    "sitagliptinphosphatmonohydrat",
-    "tesavel",
-    "xelevia"
   ],
   [
     "junyelt",
@@ -2528,6 +2477,7 @@
   [
     "kisplyx",
     "lenvatinib",
+    "lenvatinibbesilat",
     "lenvima"
   ],
   [
@@ -2548,33 +2498,13 @@
     "ranolazin"
   ],
   [
-    "lamisil",
-    "terbinafin"
-  ],
-  [
     "lamzede",
     "velmanase alfa"
-  ],
-  [
-    "lecigon",
-    "levodopa carbidopa entacapone",
-    "levodopa, decarboxylase-hæmmer og comt-hæmmer"
-  ],
-  [
-    "levitra",
-    "vardenafil"
   ],
   [
     "levitra",
     "vardenafil",
     "vardenafilhydrochloridtrihydrat"
-  ],
-  [
-    "lidbree",
-    "lidocain",
-    "lidoposterin",
-    "versatis",
-    "xylocain"
   ],
   [
     "lipidem",
@@ -2603,10 +2533,16 @@
   ],
   [
     "livensa",
+    "nebido",
     "testavan",
     "testogel",
+    "testonur",
     "testosteron",
-    "tostran"
+    "testosterone",
+    "testosteronenantat",
+    "testosteronundecanoat",
+    "tostran",
+    "tozaron"
   ],
   [
     "livopan",
@@ -2644,11 +2580,6 @@
     "warfarinnatrium"
   ],
   [
-    "mariper",
-    "perindopril",
-    "perindoprilarginin"
-  ],
-  [
     "maritop",
     "topimax",
     "topinor",
@@ -2657,24 +2588,6 @@
   [
     "mayzent",
     "siponimodfumarat"
-  ],
-  [
-    "menopur",
-    "menotropin",
-    "meriofert",
-    "meriofert set"
-  ],
-  [
-    "metadon",
-    "methadon"
-  ],
-  [
-    "metocar",
-    "metonova",
-    "metopocor",
-    "metoprolol",
-    "metoprololtartrat",
-    "seloken"
   ],
   [
     "mini-pe",
@@ -2710,6 +2623,7 @@
   ],
   [
     "myastad",
+    "mycophenolatemofetil",
     "mycophenolatnatrium",
     "mycophenolsyre",
     "myfortic"
@@ -2741,6 +2655,7 @@
     "nicorette quickmist",
     "nicorette quickmist cool berry",
     "nicotin",
+    "nicotinbitartratdihydrat",
     "nicotinell",
     "nicotinell fruit",
     "nicotinell icemint",
@@ -2749,6 +2664,7 @@
     "nicotinell spearmint",
     "nicotinell tropical fruit",
     "zonnic freshmint",
+    "zonnic mint",
     "zonnic peppermint"
   ],
   [
@@ -2778,10 +2694,16 @@
   ],
   [
     "optipar",
+    "paroxar",
     "paroxegen",
     "paroxetin",
+    "paroxetine",
     "paroxetinhydrochlorid anhydrat",
-    "seroxat"
+    "paroxetinhydrochloridhemihydrat",
+    "paxicur",
+    "risnelder",
+    "seroxat",
+    "zakkinter"
   ],
   [
     "orgovyx",
@@ -2818,19 +2740,8 @@
     "tapentadolhydrochlorid"
   ],
   [
-    "paroxar",
-    "paroxetin",
-    "paroxetinhydrochloridhemihydrat",
-    "paxicur"
-  ],
-  [
     "pegasys",
     "peginterferon alfa-2a"
-  ],
-  [
-    "penomax",
-    "pivmecillinamhydrochlorid",
-    "selexid"
   ],
   [
     "perikon",
@@ -2964,18 +2875,19 @@
   [
     "acarizax",
     "aitmyte",
-    "dermatophagoides farinae, dermatophagoides pteronyssinus"
-  ],
-  [
-    "acarizax",
+    "dermatophagoides farinae, dermatophagoides pteronyssinus",
     "husstøvmider"
   ],
   [
     "aceinhib",
     "cardiostad",
+    "lisiliv",
+    "lisinopril",
     "lisinopril stada",
     "lisinopril, vandfri",
-    "lisipax"
+    "lisinoprildihydrat",
+    "lisipax",
+    "lisopress"
   ],
   [
     "acipimox",
@@ -3014,7 +2926,8 @@
     "adenuric",
     "elstabya",
     "febuxostat",
-    "febuxostat viatris"
+    "febuxostat viatris",
+    "febuxostathemihydrat"
   ],
   [
     "adixemin",
@@ -3032,13 +2945,6 @@
     "tralokinumab"
   ],
   [
-    "advagraf",
-    "modigraf",
-    "prograf",
-    "protopic",
-    "tacrolimus (vandfrit)"
-  ],
-  [
     "aerinaze",
     "desloratadin, pseudoephedrinsulfat"
   ],
@@ -3053,20 +2959,12 @@
     "votubia"
   ],
   [
-    "aivlosin",
-    "aivlosin til kalkuner",
-    "tylvalosintartrat"
-  ],
-  [
     "akantior",
     "polihexanid"
   ],
   [
     "akineton",
-    "biperidenhydrochlorid"
-  ],
-  [
-    "akineton",
+    "biperidenhydrochlorid",
     "biperidenlactat"
   ],
   [
@@ -3091,20 +2989,30 @@
   [
     "alfadexx",
     "axiumopto",
+    "dexacortone vet.",
     "dexacur",
     "dexadreson vet.",
+    "dexafast",
     "dexafree",
     "dexaject",
+    "dexametason",
+    "dexametason abcur",
     "dexamethason",
+    "dexamethasone",
     "dexamethasone phosphate",
     "dexamethasonnatriumphosphat",
     "dexanova",
     "dexavit",
     "dexliq",
     "dexrapid vet.",
+    "fluormetylprednisolon vet.",
+    "maxidex",
     "monopex",
     "oratoria",
-    "rapidexon"
+    "ozurdex",
+    "rapidexon",
+    "waladex",
+    "zeqmelit"
   ],
   [
     "almogran",
@@ -3158,9 +3066,6 @@
   [
     "amidazed",
     "propamidinisetionat"
-  ],
-  [
-    "amikacin"
   ],
   [
     "amikacin",
@@ -3252,6 +3157,7 @@
   ],
   [
     "apretude",
+    "cabotegravir",
     "cabotegravirnatrium",
     "vocabria"
   ],
@@ -3319,11 +3225,9 @@
     "atrovent",
     "atrovent nasal",
     "ipratropiumbromid",
-    "ipratropiumbromidmonohydrat"
-  ],
-  [
-    "attentin",
-    "dexamfetamin"
+    "ipratropiumbromidmonohydrat",
+    "iprazap",
+    "lomuspray"
   ],
   [
     "aucatzyl",
@@ -3368,18 +3272,6 @@
     "azaperon",
     "azaporc",
     "separon vet."
-  ],
-  [
-    "azzalure",
-    "bocouture",
-    "botox",
-    "clostridium botulinum, type a toxin",
-    "dysport",
-    "letybo",
-    "nuceiva",
-    "relfydess",
-    "vistabel",
-    "xeomin"
   ],
   [
     "baclofen",
@@ -3439,6 +3331,7 @@
   [
     "benferol",
     "cholecalciferol",
+    "cholecalciferoldiluendum",
     "decurol",
     "diprimis",
     "divisun",
@@ -3487,6 +3380,7 @@
     "biorphen",
     "fenylefrin",
     "metaoxedrin",
+    "phenylephrin",
     "phenylephrinhydrochlorid"
   ],
   [
@@ -3503,6 +3397,7 @@
     "bitrisal",
     "lumivaxon",
     "sacubitril/valsartan",
+    "sacubitrilnatrium, valsartan",
     "sacubitrilnatrium, valsartandinatrium"
   ],
   [
@@ -3557,14 +3452,8 @@
   ],
   [
     "boostrix",
-    "bordetella pertussis, filamentøs hæmagglutinin (fha), bordetella pertussis, pertactin (prn/69 kilodalton ydermembranprotein), bordetella pertussis, toxoid, clostridium tetani, toxoid, difteritoksoid"
-  ],
-  [
-    "boostrix",
+    "bordetella pertussis, filamentøs hæmagglutinin (fha), bordetella pertussis, pertactin (prn/69 kilodalton ydermembranprotein), bordetella pertussis, toxoid, clostridium tetani, toxoid, difteritoksoid",
     "pertusiss, renset antigen, komb. med toxoider"
-  ],
-  [
-    "bosentan"
   ],
   [
     "bosentan",
@@ -3622,9 +3511,14 @@
   [
     "buccolam",
     "medirom",
+    "midaquin vet.",
     "midazolam",
+    "midazolam carefarm",
     "midazolam hameln",
-    "midazolamhydrochlorid"
+    "midazolam medical valley",
+    "midazolamhydrochlorid",
+    "miprosed",
+    "ozalin"
   ],
   [
     "bunalict",
@@ -3707,7 +3601,10 @@
   ],
   [
     "cefotrix",
-    "ceftriaxon"
+    "ceftriaxon",
+    "ceftriaxon “hameln”",
+    "ceftriaxonnatrium",
+    "ceftriaxonnatriumsesquaterhydrate"
   ],
   [
     "cellcept",
@@ -3760,8 +3657,11 @@
   ],
   [
     "cetraxal",
+    "cifin",
     "ciloxan",
-    "ciprofloxacin"
+    "ciprofloxacin",
+    "ciprofloxacinhydrochlorid (monohydrat)",
+    "ciprofloxacinhydrochlorid, vandfrit"
   ],
   [
     "chanaxin",
@@ -3792,10 +3692,6 @@
   [
     "cinqaero",
     "reslizumab"
-  ],
-  [
-    "cipralex",
-    "escitalopram"
   ],
   [
     "cipralex",
@@ -3872,7 +3768,10 @@
     "methylphenidate medical valley",
     "methylphenidatehydrochlorid",
     "methylphenidathydrochlorid",
+    "methylphenidathydrochlorid carefarm",
     "methylphenidathydrochlorid copyfarm",
+    "methyx",
+    "metyfen",
     "metyrol",
     "motiron",
     "ritalin",
@@ -3881,6 +3780,7 @@
   ],
   [
     "confidex",
+    "koagulationsfaktor ii, humant, koagulationsfaktor ix, humant, koagulationsfaktor vii, humant, koagulationsfaktor x, humant",
     "koagulationsfaktor ii, humant, koagulationsfaktor ix, humant, koagulationsfaktor vii, humant, koagulationsfaktor x, humant, protein c, human, protein s, humant",
     "octaplex"
   ],
@@ -3920,18 +3820,13 @@
     "xembify"
   ],
   [
-    "cyanokit",
-    "hydroxocobalamin",
-    "hydroxocobalaminchloride",
-    "vibeden"
-  ],
-  [
     "cyclogyl",
     "cyclopentolathydrochlorid"
   ],
   [
     "cymevene",
-    "ganciclovir"
+    "ganciclovir",
+    "ganciclovirnatrium"
   ],
   [
     "cystagon",
@@ -3972,7 +3867,12 @@
     "denagard",
     "denagard vet.",
     "tiamulin til veterinær anvendelse",
-    "vetmulin"
+    "tiamulinhydrogenfumarat til veterinær anvendelse",
+    "tiamvet",
+    "tiasol",
+    "tyawalt",
+    "vetmulin",
+    "vetmulin vet."
   ],
   [
     "deridust",
@@ -3998,10 +3898,7 @@
   ],
   [
     "dipentum",
-    "olsalazin"
-  ],
-  [
-    "dipentum",
+    "olsalazin",
     "olsalazinnatrium"
   ],
   [
@@ -4017,7 +3914,10 @@
   [
     "drexynin",
     "kentera",
-    "oxybutynin"
+    "oxybutynin",
+    "oxybutynin macure",
+    "oxybutyninhydrochlorid",
+    "velariq"
   ],
   [
     "dropizol",
@@ -4041,16 +3941,8 @@
   ],
   [
     "dynastat",
-    "parecoxib"
-  ],
-  [
-    "dynastat",
     "parecoxib",
     "parecoxib natrium"
-  ],
-  [
-    "edoxaban",
-    "ixbelor"
   ],
   [
     "efluelda",
@@ -4105,11 +3997,7 @@
   [
     "entresto",
     "neparvis",
-    "sacubitril valsartan trinatrium hemipentahydrat kompleks"
-  ],
-  [
-    "entresto",
-    "neparvis",
+    "sacubitril valsartan trinatrium hemipentahydrat kompleks",
     "sacubitril, valsartan"
   ],
   [
@@ -4126,10 +4014,7 @@
   [
     "esperoct",
     "novoeight",
-    "turoctocog alfa"
-  ],
-  [
-    "esperoct",
+    "turoctocog alfa",
     "turoctocog alfa pegol"
   ],
   [
@@ -4192,11 +4077,6 @@
     "sparsentan"
   ],
   [
-    "fixapost",
-    "fixopost",
-    "latanoprost, timolol"
-  ],
-  [
     "fluanxol",
     "fluanxol mite",
     "flupentixoldihydrochlorid"
@@ -4218,21 +4098,11 @@
     "gleptoferron, toltrazuril"
   ],
   [
-    "forminet",
-    "lyomet",
-    "metformin",
-    "metforminhydrochlorid",
-    "mitforgen",
-    "sitagliptin/metformin"
-  ],
-  [
     "fosrenol",
-    "lanthancarbonat"
-  ],
-  [
-    "fosrenol",
+    "lanthancarbonat",
     "lanthanum",
-    "lanthanumcarbonathydrat"
+    "lanthanumcarbonathydrat",
+    "lanthanumcarbonatoctahydrate"
   ],
   [
     "fostimon",
@@ -4250,10 +4120,18 @@
   ],
   [
     "frekidir",
+    "januvia",
+    "meliglix",
     "mifoglame",
+    "ristaben",
     "sitagliptin",
     "sitagliptin accord",
-    "sitagliptinhydrochloridmonohydrat"
+    "sitagliptinhydrochlorid",
+    "sitagliptinhydrochloridmonohydrat",
+    "sitagliptinmalat",
+    "sitagliptinphosphatmonohydrat",
+    "tesavel",
+    "xelevia"
   ],
   [
     "frivelle",
@@ -4296,10 +4174,6 @@
     "obinutuzumab"
   ],
   [
-    "gelaspan",
-    "gelatineforbindelser"
-  ],
-  [
     "gelatine",
     "gelofusine"
   ],
@@ -4314,11 +4188,6 @@
   [
     "glitinum",
     "matrem"
-  ],
-  [
-    "glucagen",
-    "glucagen hypokit",
-    "glucagonhydrochlorid"
   ],
   [
     "glycerol",
@@ -4358,10 +4227,6 @@
     "marstacimab"
   ],
   [
-    "hypotron",
-    "midodrin"
-  ],
-  [
     "idebenon",
     "raxone"
   ],
@@ -4373,10 +4238,6 @@
     "ilomedin",
     "iloprost",
     "iloprosttrometamol",
-    "ventavis"
-  ],
-  [
-    "iloprost",
     "ventavis"
   ],
   [
@@ -4428,10 +4289,6 @@
     "osilodrostatphosphat"
   ],
   [
-    "itulazax",
-    "træpollen"
-  ],
-  [
     "jaypirca",
     "pirtobrutinib"
   ],
@@ -4475,6 +4332,8 @@
     "otrivin menthol ukonserveret",
     "otrivin ukonserveret",
     "xylometazolin",
+    "xylometazolin menthol ukonserveret",
+    "xylometazolin ukonserveret",
     "xylometazolinhydrochlorid",
     "zymelin menthol ukonserveret",
     "zymelin ukonserveret"
@@ -4517,10 +4376,6 @@
   [
     "loqtorzi",
     "toripalimab"
-  ],
-  [
-    "losartan",
-    "myrlosar"
   ],
   [
     "lovtelar",
@@ -4586,21 +4441,9 @@
     "magnesiumhydroxid"
   ],
   [
-    "mariprax",
-    "oprymea",
-    "pramipexol",
-    "pramipexol aurobindo",
-    "pramipexole"
-  ],
-  [
     "mekinist",
     "spexotras",
     "trametinibdimethylsulfoxid"
-  ],
-  [
-    "meliglix",
-    "sitagliptin",
-    "sitagliptinhydrochlorid"
   ],
   [
     "mepsevii",
@@ -4641,10 +4484,6 @@
     "naloxegoloxalat"
   ],
   [
-    "moviprep",
-    "osmotisk virkende laksantia"
-  ],
-  [
     "mucopret",
     "primularod, ekstrakt, timian ekstrakt"
   ],
@@ -4654,6 +4493,7 @@
     "octreotid",
     "octreotid sun",
     "octreotidacetat",
+    "sandostatin",
     "sandostatin lar"
   ],
   [
@@ -4682,15 +4522,8 @@
     "selinexor"
   ],
   [
-    "nobligan",
-    "tramadol"
-  ],
-  [
     "noritren",
-    "nortriptylin"
-  ],
-  [
-    "noritren",
+    "nortriptylin",
     "nortriptylin ”ria”",
     "nortriptyline",
     "nortriptylinhydrochlorid"
@@ -4698,10 +4531,6 @@
   [
     "olimesta",
     "olmesartanmedoxomil"
-  ],
-  [
-    "omnistad",
-    "tamsulosin"
   ],
   [
     "oncaspar",
@@ -4803,11 +4632,6 @@
     "valeriane ekstrakt, tørret"
   ],
   [
-    "sempavox",
-    "sildenafil",
-    "vizarsin"
-  ],
-  [
     "senvelgo",
     "velagliflozin prolin monohydrat"
   ],
@@ -4818,17 +4642,6 @@
   [
     "sivextro",
     "tedizolidphosphat"
-  ],
-  [
-    "stilnoct",
-    "zolcare",
-    "zolpidem",
-    "zolpidem carefarm",
-    "zolpidem hexal",
-    "zolpidem tartrat",
-    "zolpidem viatris",
-    "zolpidemtartrat",
-    "zonoct"
   ],
   [
     "taf vet.",
@@ -4847,16 +4660,13 @@
     "tepotinibhydrochloridmonohydrat"
   ],
   [
-    "testogel",
-    "testosteronenantat"
-  ],
-  [
     "tevimbra",
     "tislelizumab"
   ],
   [
     "theo-dur",
     "theophyllin",
+    "theophyllinmonohydrat",
     "unixan"
   ],
   [
@@ -4866,7 +4676,10 @@
   [
     "tildosin",
     "tilmicosin",
-    "tilmovet"
+    "tilmicosinphosphat",
+    "tilmicosol",
+    "tilmovet",
+    "tilmovet vet."
   ],
   [
     "trazodon",
@@ -4882,10 +4695,6 @@
     "trilostan",
     "trilotab vet.",
     "vetoryl"
-  ],
-  [
-    "vancocin",
-    "vancomycin"
   ],
   [
     "vaxchora",
@@ -4937,15 +4746,9 @@
   [
     "abboticin",
     "abboticin novum",
-    "erythromycinethylsuccinat"
-  ],
-  [
-    "abboticin",
     "erythromycin",
-    "erythromycinlactobionat"
-  ],
-  [
-    "abboticin",
+    "erythromycinethylsuccinat",
+    "erythromycinlactobionat",
     "erythromycinstearat"
   ],
   [
@@ -4992,16 +4795,13 @@
   [
     "adrenalin",
     "adrenalintartrat",
-    "emerade",
-    "jext"
-  ],
-  [
-    "adrenalin",
     "anapen",
     "anapen junior",
+    "emerade",
     "epipen",
     "epipen jr.",
-    "eurneffy"
+    "eurneffy",
+    "jext"
   ],
   [
     "agenerase",
@@ -5031,11 +4831,14 @@
     "imadrax novum",
     "imaxi",
     "kelmoxil la",
+    "lamox",
+    "maxyl",
     "noromox prolongatum vet.",
     "octacillin vet.",
     "paracillin vet.",
     "solamocta",
     "stabox vet.",
+    "trymox vet.",
     "vetrimoxin l.a."
   ],
   [
@@ -5059,30 +4862,24 @@
   [
     "amiodaron",
     "amiodaron hameln",
-    "cordarone"
-  ],
-  [
-    "amiodaron",
     "amiodaronhydrochlorid",
     "cordan",
     "cordarone"
   ],
   [
-    "amlodipin"
-  ],
-  [
     "amproline",
-    "amproliumhydrochlorid",
-    "coccibal"
-  ],
-  [
     "amprolium",
+    "amproliumhydrochlorid",
     "coccibal"
   ],
   [
     "amzolynic",
     "azithromycin",
+    "azithromycin sandoz",
+    "azithromycin teva",
     "azithromycindihydrat",
+    "azithromycinmonohydrat",
+    "azithromycinmonohydrat-hemiethanolat",
     "azyter",
     "zithromax",
     "zitromax"
@@ -5095,12 +4892,11 @@
     "klomipramin"
   ],
   [
-    "anagrelid"
-  ],
-  [
     "anagrelid",
     "anagrelide",
+    "anagrelide viatris",
     "anagrelidhydrochlorid",
+    "anagrelidhydrochloridmonohydrat",
     "xagrid"
   ],
   [
@@ -5120,6 +4916,8 @@
   [
     "areleptan",
     "bonaxon",
+    "efigalo",
+    "fingod",
     "fingolimod",
     "fingolimodhydrochlorid",
     "finrina",
@@ -5133,12 +4931,9 @@
     "edoxaban",
     "edoxabantosilatmonohydrat",
     "hevagtu",
+    "ixbelor",
     "lixiana",
     "roteas"
-  ],
-  [
-    "armisarte",
-    "pemetrexed"
   ],
   [
     "artesunat",
@@ -5172,16 +4967,15 @@
   [
     "bactroban",
     "bactroban nasal",
+    "mupirocin",
     "mupirocin carefarm",
     "mupirocincalcium"
   ],
   [
-    "bactroban",
-    "mupirocin"
-  ],
-  [
     "baraclude",
+    "edevira",
     "entecavir",
+    "entecavir (monohydrat)",
     "entecavir viatris"
   ],
   [
@@ -5203,6 +4997,7 @@
     "fixapost",
     "fixopost",
     "latacomp",
+    "latanoprost, timolol",
     "latanoprost, timololmaleat",
     "latanoprost/timolol",
     "latanostad comp",
@@ -5237,13 +5032,6 @@
     "bleomycinsulfat"
   ],
   [
-    "bondronat",
-    "ibandronsyre"
-  ],
-  [
-    "bosutinib"
-  ],
-  [
     "boviffens",
     "boviqarai",
     "iod",
@@ -5264,6 +5052,8 @@
   ],
   [
     "bupropion",
+    "bupropion hydrochloride",
+    "bupropionhydrochlorid",
     "zyban"
   ],
   [
@@ -5274,6 +5064,7 @@
     "cabometyx",
     "cabozantinib",
     "cabozantinib (s)-malat",
+    "cabozantinib, cabozantinib (s)-malat",
     "cometriq",
     "hasgobusno"
   ],
@@ -5340,9 +5131,6 @@
     "naxcel"
   ],
   [
-    "cefuroxim"
-  ],
-  [
     "celldemic",
     "influenzavirus a/indonesia/05/2005 (h5n1)/pr8-ibcdc-rg2 oprens. antigener af inaktiv. split virioner"
   ],
@@ -5350,11 +5138,13 @@
     "celmantin",
     "crestor",
     "kastia",
+    "rosudia",
     "rosufy",
     "rosunogra",
     "rosuvastatin",
     "rosuvastatin calcium",
     "rosval",
+    "roswera",
     "rovasyn",
     "rovatina",
     "ycomwya",
@@ -5393,10 +5183,6 @@
     "entolex",
     "pebermynteolie",
     "pepelia"
-  ],
-  [
-    "chloromed",
-    "chlortetracyclinhydrochlorid, fodergrad"
   ],
   [
     "cidofovir",
@@ -5488,12 +5274,9 @@
     "doltard",
     "malfin",
     "morfinsulfat",
+    "morphin",
     "morphinsulfat",
     "oramorph"
-  ],
-  [
-    "contalgin",
-    "morphin"
   ],
   [
     "corlentor",
@@ -5537,9 +5320,6 @@
     "valsartan"
   ],
   [
-    "darunavir"
-  ],
-  [
     "darunavir",
     "darunavirpropylenglycolat",
     "davarino"
@@ -5555,11 +5335,13 @@
   [
     "delepsine",
     "delepsine retard",
+    "depakine retard",
     "natriumvalproat",
     "orfiril",
     "orfiril long",
     "orfiril retard",
-    "valproat"
+    "valproat",
+    "valproinsyre"
   ],
   [
     "delstrigo",
@@ -5571,7 +5353,9 @@
     "equisolon",
     "hedylon",
     "prednicortone vet.",
-    "prednisolon"
+    "prednisolon",
+    "prednisolonnatriumphosphat",
+    "provistopto"
   ],
   [
     "desfluran",
@@ -5580,25 +5364,6 @@
   [
     "dexhility",
     "lisdexamfetamindiadipat"
-  ],
-  [
-    "dicloabak",
-    "diclodan",
-    "diclofenac",
-    "diclofenacnatrium",
-    "diclofenacnatrium carefarm",
-    "diclofenacnatrium retard",
-    "diclon",
-    "diclopar",
-    "dicloren",
-    "diclosup",
-    "dicuno",
-    "diklofenak",
-    "solaraze",
-    "spraymik",
-    "viclonor",
-    "voltabak",
-    "voltaren"
   ],
   [
     "dienogest",
@@ -5625,15 +5390,8 @@
   ],
   [
     "donepezil",
-    "donepezilhydrochlorid"
-  ],
-  [
-    "donepezil",
+    "donepezilhydrochlorid",
     "donepezilhydrochlorid, monohydrat"
-  ],
-  [
-    "doxagamma",
-    "doxazosin"
   ],
   [
     "dupilumab",
@@ -5664,13 +5422,6 @@
     "esomeprazolemagnesiumtrihydrat, naproxen"
   ],
   [
-    "emthexate",
-    "metex pen",
-    "methotrexat",
-    "methotrexatnatrium",
-    "trexan"
-  ],
-  [
     "epistatus",
     "midazolammaleat"
   ],
@@ -5690,18 +5441,8 @@
   [
     "ertapenem",
     "ertapenem sun",
-    "ertapenemnatrium"
-  ],
-  [
-    "ertapenem",
+    "ertapenemnatrium",
     "invanz"
-  ],
-  [
-    "estradiol",
-    "estring",
-    "estrogel",
-    "incurin",
-    "østradiol"
   ],
   [
     "etamsylat",
@@ -5731,7 +5472,11 @@
   [
     "ferulinor",
     "lenalidomid",
+    "lenalidomidammoniumchlorid",
     "lenalidomide",
+    "lenalidomide krka",
+    "lenalidomide krka d.d. novo mesto",
+    "lenalidomidhydrochloridhydrat",
     "revlimid"
   ],
   [
@@ -5769,12 +5514,9 @@
     "fluoxetine",
     "fluoxetinhydrochlorid",
     "fluzap",
+    "fontex",
     "hoanaca",
     "reconcile"
-  ],
-  [
-    "fluoxetin",
-    "fontex"
   ],
   [
     "foscarnet",
@@ -5813,6 +5555,7 @@
     "mysildecard",
     "revastad",
     "revatio",
+    "sempavox",
     "sildenafil",
     "sildenafilcitrat",
     "viagra",
@@ -5840,11 +5583,6 @@
     "imbruvica"
   ],
   [
-    "icatibant",
-    "icatibantacetat",
-    "idanuz"
-  ],
-  [
     "ifirmasta",
     "irbesartanhydrochlorid"
   ],
@@ -5854,6 +5592,7 @@
   ],
   [
     "imidapril",
+    "imidaprilhydrochlorid",
     "prilium vet."
   ],
   [
@@ -5918,10 +5657,6 @@
     "medilax"
   ],
   [
-    "lanthanum",
-    "lanthanumcarbonatoctahydrate"
-  ],
-  [
     "lapatinib",
     "lapatinibditosylatmonohydrat",
     "tyverb"
@@ -5929,13 +5664,6 @@
   [
     "lecanemab",
     "leqembi"
-  ],
-  [
-    "ledercort",
-    "mometason",
-    "mometasonfuroat",
-    "nasonex",
-    "ovixan"
   ],
   [
     "lederspan",
@@ -5967,6 +5695,7 @@
     "naltrexon",
     "naltrexon accord",
     "naltrexone",
+    "naltrexone accord",
     "naltrexonhydrochlorid"
   ],
   [
@@ -5985,10 +5714,6 @@
     "trocoxil"
   ],
   [
-    "mebeverin",
-    "mebeverinhydrochlorid"
-  ],
-  [
     "medi-mibi",
     "stamicis",
     "technescan sestamibi",
@@ -5999,20 +5724,12 @@
     "metformin og linagliptin"
   ],
   [
-    "melphalan",
-    "melphalanhydrochlorid",
-    "phelinun"
-  ],
-  [
     "menquadfi",
     "n. meningitidis serogroup c polysaccharide (psc), neisseria meningitidis polysaccharid serogruppe a, stamme ca4 branham, neisseria meningitidis w 135, neisseria meningitidis y, tetanustoksoid, renset"
   ],
   [
     "mertiatid",
     "nephromag"
-  ],
-  [
-    "metformin"
   ],
   [
     "methergin",
@@ -6061,10 +5778,6 @@
     "relifex"
   ],
   [
-    "naltrexon",
-    "naltrexone accord"
-  ],
-  [
     "navelbine",
     "navirel",
     "vinorelbin",
@@ -6083,12 +5796,9 @@
   [
     "nilotinib",
     "nilotinib accord",
+    "nilotinibhydrochloriddihydrat",
     "nilotinibhydrochloridmonohydrat",
     "tasigna"
-  ],
-  [
-    "nilotinib",
-    "nilotinibhydrochloriddihydrat"
   ],
   [
     "nimodipin",
@@ -6107,19 +5817,12 @@
   ],
   [
     "norprolac",
-    "quinagolid"
-  ],
-  [
-    "norprolac",
+    "quinagolid",
     "quinagolidhydrochlorid"
   ],
   [
     "nuvaxovid",
     "sars-cov-2 rekombinant spike protein"
-  ],
-  [
-    "octreotid",
-    "sandostatin"
   ],
   [
     "ophthajod",
@@ -6130,19 +5833,8 @@
     "senshio"
   ],
   [
-    "pancillin",
-    "phenoxymethylpenicillin"
-  ],
-  [
     "papaverin",
     "papaverinhydrochlorid"
-  ],
-  [
-    "paroxegen",
-    "paroxetin",
-    "paroxetine",
-    "risnelder",
-    "zakkinter"
   ],
   [
     "pazopanib",
@@ -6187,11 +5879,6 @@
     "reteplase"
   ],
   [
-    "rasagilin",
-    "rasagiline",
-    "rasagilintartrat"
-  ],
-  [
     "remodulin",
     "treprostinilnatrium"
   ],
@@ -6232,24 +5919,14 @@
     "sertraline",
     "sertralinhydrochlorid",
     "sertramyl",
+    "sertrix",
     "sertrone",
     "zoloft"
-  ],
-  [
-    "sertralin",
-    "sertrix"
-  ],
-  [
-    "sevelamer",
-    "sevelamercarbonat"
   ],
   [
     "silodosin",
     "silodyx",
     "urorec"
-  ],
-  [
-    "sorafenib"
   ],
   [
     "stelfonta",
@@ -6258,9 +5935,6 @@
   [
     "strangvac",
     "streptococcus equi, protein cce (rdna), streptococcus equi, protein eq85 (rdna), streptococcus equi, protein idee (rdna)"
-  ],
-  [
-    "sunitinib"
   ],
   [
     "sunitinib",
@@ -6273,10 +5947,8 @@
   ],
   [
     "tafamidis",
+    "tafamidismeglumin",
     "vyndaqel"
-  ],
-  [
-    "tamoxifen"
   ],
   [
     "tamoxifen",
@@ -6299,21 +5971,13 @@
     "voxzogo"
   ],
   [
-    "zipranova",
-    "ziprasidon",
-    "ziprasidone"
-  ],
-  [
     "abirateron",
     "abirateronacetat",
     "abiraterone",
     "abiraterone “vivanta”",
+    "grumabix",
     "verlamga",
     "zytiga"
-  ],
-  [
-    "abirateron",
-    "grumabix"
   ],
   [
     "acrivastin",
@@ -6353,10 +6017,6 @@
     "zolsketil pegylated liposomal"
   ],
   [
-    "adriamycin",
-    "doxorubicin"
-  ],
-  [
     "afoxolaner",
     "frontpro",
     "nexgard"
@@ -6381,15 +6041,9 @@
     "alensol",
     "binosto",
     "fosamax",
+    "natriumalendronate, vandfrit",
+    "natriumalendronatmonohydrat",
     "natriumalendronattrihydrat"
-  ],
-  [
-    "alendronat",
-    "natriumalendronate, vandfrit"
-  ],
-  [
-    "alendronat",
-    "natriumalendronatmonohydrat"
   ],
   [
     "alfentanil",
@@ -6408,8 +6062,18 @@
   ],
   [
     "alluzience",
+    "azzalure",
+    "bocouture",
+    "botox",
+    "botulinum toxin",
+    "clostridium botulinum, type a toxin",
     "clostridium botulinum, type a toxin-haemagglutinin compleks",
-    "dysport"
+    "dysport",
+    "letybo",
+    "nuceiva",
+    "relfydess",
+    "vistabel",
+    "xeomin"
   ],
   [
     "alprazolam",
@@ -6420,18 +6084,10 @@
   [
     "ampicillin",
     "ampicillinnatrium",
+    "ampicillintrihydrat",
     "ampitar",
     "amroliv",
     "rotacin"
-  ],
-  [
-    "ampicillin",
-    "ampicillintrihydrat"
-  ],
-  [
-    "anagrelide",
-    "anagrelide viatris",
-    "anagrelidhydrochloridmonohydrat"
   ],
   [
     "anastrella",
@@ -6497,6 +6153,11 @@
   ],
   [
     "aphiahsone",
+    "asmanex twisthaler",
+    "elocom",
+    "elocon",
+    "elopar",
+    "ledercort",
     "momenex",
     "mometason",
     "mometasone",
@@ -6504,7 +6165,10 @@
     "mometasonfuroat",
     "mometasonfuroat monohydrat",
     "mommox",
+    "nasonex",
     "niciane",
+    "ovison",
+    "ovixan",
     "rinometasone"
   ],
   [
@@ -6555,18 +6219,10 @@
     "reyataz"
   ],
   [
-    "atazanavir",
-    "reyataz"
-  ],
-  [
     "atomoxetin",
     "atomoxetin teva",
     "atomoxetine",
     "atomoxetinhydrochlorid",
-    "strattera"
-  ],
-  [
-    "atomoxetin",
     "strattera"
   ],
   [
@@ -6588,6 +6244,8 @@
   ],
   [
     "bendamedac",
+    "bendamustin",
+    "bendamustine",
     "bendamustinhydrochlorid",
     "bendamustinhydrochloridmonohydrat",
     "clybenic",
@@ -6600,10 +6258,7 @@
     "betahistindihydrochlorid",
     "betahistine",
     "betaserc",
-    "menisy"
-  ],
-  [
-    "betahistin",
+    "menisy",
     "serc"
   ],
   [
@@ -6625,10 +6280,7 @@
   [
     "bisoprolol",
     "bisoprololfumarat",
-    "cardiospir"
-  ],
-  [
-    "bisoprolol",
+    "cardiospir",
     "cardovia"
   ],
   [
@@ -6647,10 +6299,7 @@
     "brintellix",
     "broxeltia",
     "vortioxetine",
-    "vortioxetinhydrobromid"
-  ],
-  [
-    "brintellix",
+    "vortioxetinhydrobromid",
     "vortioxetinlaktat"
   ],
   [
@@ -6670,23 +6319,17 @@
     "bupivacain",
     "bupivacaine",
     "bupivacainhydrochlorid monohydrat",
+    "exparel liposomal",
     "marcain",
     "marcain spinal",
-    "marcain spinal tung"
-  ],
-  [
-    "bupivacain",
-    "exparel liposomal",
+    "marcain spinal tung",
     "marcaine"
   ],
   [
     "calcitonin",
     "calcitonin (laks)",
+    "calcitonin (laks, syntetisk)",
     "miacalcic"
-  ],
-  [
-    "calcitonin",
-    "calcitonin (laks, syntetisk)"
   ],
   [
     "canigen l4",
@@ -6711,14 +6354,6 @@
     "carboplatin"
   ],
   [
-    "cardiostad",
-    "lisiliv",
-    "lisinopril",
-    "lisinoprildihydrat",
-    "lisipax",
-    "lisopress"
-  ],
-  [
     "carditimib",
     "cildar",
     "ezetimib",
@@ -6736,22 +6371,10 @@
     "xatamont"
   ],
   [
-    "ceftazidim"
-  ],
-  [
     "ceftazidim",
     "ceftazidim “hameln”",
     "ceftazidimpentahydrat",
     "fortum"
-  ],
-  [
-    "ceftriaxon",
-    "ceftriaxon “hameln”",
-    "ceftriaxonnatrium"
-  ],
-  [
-    "ceftriaxon",
-    "ceftriaxonnatriumsesquaterhydrate"
   ],
   [
     "cemiplimab",
@@ -6775,9 +6398,6 @@
     "onytec"
   ],
   [
-    "cinacalcet"
-  ],
-  [
     "cinacalcet",
     "cinacalcet viatris",
     "cinacalcethydrochlorid",
@@ -6787,10 +6407,6 @@
     "cisordinol",
     "clopixol",
     "zuclopenthixoldihydrochlorid"
-  ],
-  [
-    "citalopram",
-    "loxopram"
   ],
   [
     "citrafleet",
@@ -6843,6 +6459,7 @@
   ],
   [
     "dacarbazin",
+    "dacarbazincitrat",
     "dacarbazine"
   ],
   [
@@ -6864,6 +6481,7 @@
   ],
   [
     "dalteparin",
+    "dalteparinnatrium",
     "fragmin"
   ],
   [
@@ -6884,13 +6502,6 @@
     "dycoxan"
   ],
   [
-    "diclofenac",
-    "diclofenacnatrium",
-    "voltabak",
-    "voltaren",
-    "voltarol"
-  ],
-  [
     "dobutamine",
     "dobutaminhydrochlorid",
     "dobutrex"
@@ -6908,12 +6519,9 @@
     "doxycyclinmonohydrat",
     "doxycyklin",
     "doxyprim",
+    "ladoxyn",
     "oracea",
     "vibradox"
-  ],
-  [
-    "doxycyclin",
-    "ladoxyn"
   ],
   [
     "dronedaron",
@@ -6939,9 +6547,6 @@
     "elektrolytter med kulhydrater"
   ],
   [
-    "eletriptan"
-  ],
-  [
     "eletriptan",
     "eletriptan viatris",
     "eletriptanhydrobromid",
@@ -6965,10 +6570,6 @@
     "ghemaxan",
     "inhixa",
     "thorinane"
-  ],
-  [
-    "enoxaparin",
-    "inhixa"
   ],
   [
     "epirubicin",
@@ -7015,22 +6616,10 @@
     "stabilised ceretec"
   ],
   [
-    "febuxostat",
-    "febuxostathemihydrat"
-  ],
-  [
-    "fenylefrin",
-    "phenylephrin"
-  ],
-  [
     "finasterid",
     "finasteride",
     "finasteride teva",
     "prosterid"
-  ],
-  [
-    "fludarabin",
-    "fludarabinphosphat"
   ],
   [
     "flumazenil"
@@ -7086,16 +6675,8 @@
     "nutropinaq",
     "omnitrope",
     "somatropin",
+    "somatropin, human biosyntetisk",
     "zomacton"
-  ],
-  [
-    "genotropin",
-    "somatropin",
-    "somatropin, human biosyntetisk"
-  ],
-  [
-    "gentamicin",
-    "gentamicin b. braun"
   ],
   [
     "glimepirid",
@@ -7109,10 +6690,7 @@
   ],
   [
     "glypressin",
-    "terlipressinacetat"
-  ],
-  [
-    "glypressin",
+    "terlipressinacetat",
     "terlipressinum"
   ],
   [
@@ -7132,7 +6710,8 @@
   ],
   [
     "idarubicin",
-    "idarubicinhydrochlorid"
+    "idarubicinhydrochlorid",
+    "zavedos"
   ],
   [
     "idelalisib",
@@ -7157,12 +6736,20 @@
   ],
   [
     "instillido",
+    "lidbree",
     "lidcosal vet.",
+    "lidocain",
     "lidocaine",
+    "lidocainhydrochlorid",
     "lidocainhydrochloridmonohydrat",
     "lidokain",
+    "lidoposterin",
+    "lidor vet.",
+    "lignovet",
     "ophtesic",
-    "xylocain"
+    "versatis",
+    "xylocain",
+    "xylocain ukonserveret"
   ],
   [
     "intralipid",
@@ -7231,10 +6818,6 @@
     "metforminhydrochlorid, saxagliptinhydrochlorid"
   ],
   [
-    "lenvatinib",
-    "lenvatinibbesilat"
-  ],
-  [
     "letermovir",
     "prevymis"
   ],
@@ -7283,6 +6866,9 @@
   ],
   [
     "mecillinam",
+    "penomax",
+    "pivmecillinam",
+    "pivmecillinamhydrochlorid",
     "selexid"
   ],
   [
@@ -7290,16 +6876,8 @@
     "metyrapon"
   ],
   [
-    "metoprolol",
-    "metoprololsuccinat",
-    "metoprololtartrat"
-  ],
-  [
     "micafungin",
-    "micafunginnatrium"
-  ],
-  [
-    "micafungin",
+    "micafunginnatrium",
     "mycamine"
   ],
   [
@@ -7364,19 +6942,8 @@
     "systamex vet."
   ],
   [
-    "oxybutynin",
-    "oxybutynin macure",
-    "oxybutyninhydrochlorid",
-    "velariq"
-  ],
-  [
     "pascoflair",
     "passionsblomst, urt, tørekstrakt"
-  ],
-  [
-    "pemetrexed",
-    "pemetrexed pfizer",
-    "pemetrexeddinatrium 2,5-hydrat"
   ],
   [
     "pitolisant",
@@ -7441,27 +7008,11 @@
     "spevigo"
   ],
   [
-    "sugammadex"
-  ],
-  [
-    "tacrolimus",
-    "tacrolimus accord"
-  ],
-  [
-    "tapentadol"
-  ],
-  [
     "tapentadol",
     "tapentadol carefarm",
+    "tapentadolmaleathemihydrat",
+    "tapentadolphosphat",
     "tapentadoltartrat"
-  ],
-  [
-    "tapentadol",
-    "tapentadolmaleathemihydrat"
-  ],
-  [
-    "tapentadol",
-    "tapentadolphosphat"
   ],
   [
     "thalidomid",
@@ -7483,22 +7034,8 @@
     "venoruton"
   ],
   [
-    "tylan vet.",
-    "tylmasin",
-    "tylosinphosphat"
-  ],
-  [
     "vadadustat",
     "vafseo"
-  ],
-  [
-    "vareniclin",
-    "vareniclin startpakke",
-    "vareniclincitrat"
-  ],
-  [
-    "venlafaxin",
-    "venlafaxin sandoz"
   ],
   [
     "vericiguat",
@@ -7572,14 +7109,6 @@
   [
     "amivantamab",
     "rybrevant"
-  ],
-  [
-    "amoxicillin",
-    "amoxonor",
-    "imadrax",
-    "lamox",
-    "maxyl",
-    "trymox vet."
   ],
   [
     "andusomeran",
@@ -7662,11 +7191,6 @@
     "uniferon"
   ],
   [
-    "bendamustin",
-    "bendamustine",
-    "bendamustinhydrochlorid"
-  ],
-  [
     "besilesomab",
     "scintimun"
   ],
@@ -7677,13 +7201,18 @@
   [
     "betaloc zok",
     "bloxazoc",
+    "metocar",
     "metomylan",
+    "metonova",
+    "metopocor",
     "metoprolol",
     "metoprololsuccinat",
     "metoprololsuccinat carefarm",
+    "metoprololtartrat",
     "metosuc",
     "metrasina",
     "selo-zok",
+    "seloken",
     "selozok",
     "succinor"
   ],
@@ -7724,21 +7253,12 @@
   ],
   [
     "cabazitaxel",
-    "cabazitaxelmonohydrat"
-  ],
-  [
-    "cabazitaxel",
+    "cabazitaxelmonohydrat",
     "jevtana"
   ],
   [
     "canakinumab",
     "ilaris"
-  ],
-  [
-    "candesartan",
-    "candesartan krka",
-    "candesartancilexetil",
-    "sarcanor"
   ],
   [
     "caniphedrin",
@@ -7772,38 +7292,21 @@
     "colesevelamhydrochlorid"
   ],
   [
-    "clindamycin",
-    "clindamycinphosphat",
-    "dalacin",
-    "dalacin c"
-  ],
-  [
-    "clopidogrel"
-  ],
-  [
     "clopidogrel",
     "clopidogrel krka d.d.",
-    "clopidogrel viatris",
-    "clopidogrelhydrochlorid",
-    "cloriocard"
-  ],
-  [
-    "clopidogrel",
     "clopidogrel ratiopharm",
     "clopidogrel viatris",
-    "clopidogrelbesilat",
-    "clopimar",
-    "grepid",
-    "maddogrel",
-    "vatoud"
-  ],
-  [
-    "clopidogrel",
-    "clopidogrel ratiopharm",
     "clopidogrel zentiva",
+    "clopidogrelbesilat",
+    "clopidogrelhydrochlorid",
     "clopidogrelhydrogensulfat",
+    "clopimar",
+    "cloriocard",
+    "grepid",
     "iscover",
+    "maddogrel",
     "plavix",
+    "vatoud",
     "zyllt"
   ],
   [
@@ -7901,9 +7404,14 @@
   ],
   [
     "emcepe vet.",
+    "metoclopramid",
     "metoclopramide",
+    "metoclopramide accord",
     "metoclopramide “medical valley”",
+    "metoclopramidhydrochlorid",
     "metoclopramidhydrochloridmonohydrat",
+    "metomotyl",
+    "primperan",
     "vomend vet."
   ],
   [
@@ -7937,19 +7445,6 @@
     "xerava"
   ],
   [
-    "esomeprazol",
-    "esomeprazol sun",
-    "esomeprazole",
-    "esomeprazolnatrium",
-    "nexium"
-  ],
-  [
-    "esomeprazol",
-    "esomeprazolemagnesiumtrihydrat",
-    "nexium",
-    "nexium control"
-  ],
-  [
     "exitel plus",
     "febantel, praziquantel, pyrantel"
   ],
@@ -7958,18 +7453,8 @@
     "famvir"
   ],
   [
-    "fesoterodin",
-    "fesoterodine",
-    "fesoterodinfumarat",
-    "toviaz"
-  ],
-  [
     "fexinidazol",
     "fexinidazole"
-  ],
-  [
-    "fotil forte",
-    "pilocarpinhydrochlorid, timolol"
   ],
   [
     "frunevetmab",
@@ -7984,29 +7469,18 @@
     "prohance"
   ],
   [
-    "ganciclovir",
-    "ganciclovirnatrium"
-  ],
-  [
     "gemfibrozil",
     "lopid"
   ],
   [
     "granisetron",
     "granisetronhydrochlorid",
-    "granisym"
-  ],
-  [
-    "granisetron",
+    "granisym",
     "sancuso"
   ],
   [
     "haloperidol",
     "haloperidoldecanoat",
-    "serenase dekanoat"
-  ],
-  [
-    "haloperidol",
     "serenase",
     "serenase dekanoat"
   ],
@@ -8045,10 +7519,6 @@
     "takhzyro"
   ],
   [
-    "lenalidomid",
-    "lenalidomidammoniumchlorid"
-  ],
-  [
     "linagliptin",
     "linathan",
     "neloviren",
@@ -8084,9 +7554,6 @@
     "mitoxantronhydrochlorid"
   ],
   [
-    "montelukast"
-  ],
-  [
     "mva-bn filo",
     "mvabea"
   ],
@@ -8096,10 +7563,7 @@
   ],
   [
     "naratriptan",
-    "naratriptan teva"
-  ],
-  [
-    "naratriptan",
+    "naratriptan teva",
     "naratriptanhydrochlorid"
   ],
   [
@@ -8123,10 +7587,6 @@
     "zofran"
   ],
   [
-    "ondansetron",
-    "zofran"
-  ],
-  [
     "oxaliplatin"
   ],
   [
@@ -8136,13 +7596,6 @@
   [
     "panitumumab",
     "vectibix"
-  ],
-  [
-    "pantoprazol"
-  ],
-  [
-    "pasireotide",
-    "signifor"
   ],
   [
     "pegvisomant",
@@ -8170,15 +7623,6 @@
   [
     "pravastatin",
     "pravastatinnatrium"
-  ],
-  [
-    "prednisolon",
-    "prednisolonnatriumphosphat",
-    "provistopto"
-  ],
-  [
-    "propranolol",
-    "propranolol retard"
   ],
   [
     "prucaloprid",
@@ -8221,13 +7665,6 @@
     "tizanidinhydrochlorid"
   ],
   [
-    "sitagliptin"
-  ],
-  [
-    "sitagliptin",
-    "sitagliptinmalat"
-  ],
-  [
     "solifenacin",
     "solifenacinsuccinat",
     "soliteva",
@@ -8244,9 +7681,6 @@
   [
     "teclistamab",
     "tecvayli"
-  ],
-  [
-    "tetracyclin"
   ],
   [
     "tetracyclin",
@@ -8334,9 +7768,6 @@
     "reje"
   ],
   [
-    "amitriptylin"
-  ],
-  [
     "amitriptylin",
     "amitriptylinhydrochlorid",
     "saroten"
@@ -8352,18 +7783,17 @@
     "licolos plus",
     "losanova hct",
     "losarstad comp",
+    "losartan og diuretika",
     "losartan/hydrochlorothiazide",
     "losartan/hydroklortiazid",
     "losartankalium/hydrochlorthiazid",
-    "primotan"
+    "myrlosar comp",
+    "primotan",
+    "sartanix"
   ],
   [
     "aprocitentan",
     "jeraygo"
-  ],
-  [
-    "aripiprazole",
-    "aripiprazolmonohydrat"
   ],
   [
     "ascorbinsyre",
@@ -8391,32 +7821,8 @@
     "vevizye"
   ],
   [
-    "atorvastatin",
-    "atorvastatin xiromed"
-  ],
-  [
-    "atorvastatin",
-    "atorvastatincalcium (trihydrat)",
-    "lambrinex",
-    "lipistad",
-    "zarator"
-  ],
-  [
     "aurizon vet.",
     "clotrimazol, dexamethasonacetat, marbofloxacin"
-  ],
-  [
-    "azithromycin",
-    "azithromycin sandoz",
-    "azithromycin teva"
-  ],
-  [
-    "azithromycin",
-    "azithromycinmonohydrat"
-  ],
-  [
-    "azithromycin",
-    "azithromycinmonohydrat-hemiethanolat"
   ],
   [
     "bariumsulfat",
@@ -8441,6 +7847,7 @@
     "glucos",
     "glucos viaflo",
     "glucos.",
+    "glucose, vandfri",
     "glucosemonohydrat",
     "glucovet",
     "glukose",
@@ -8460,10 +7867,6 @@
   [
     "benralizumab",
     "fasenra"
-  ],
-  [
-    "betamethason",
-    "diproderm"
   ],
   [
     "bezlotoxumab",
@@ -8486,11 +7889,8 @@
     "rxulti"
   ],
   [
-    "cabotegravir",
-    "vocabria"
-  ],
-  [
     "calcipotriol",
+    "calcipotriolmonohydrat",
     "daivonex"
   ],
   [
@@ -8604,29 +8004,25 @@
   ],
   [
     "depo-provera",
+    "medroxyprogesteron",
     "medroxyprogesteronacetat",
     "perlutex vet.",
-    "provera"
+    "provera",
+    "sayana",
+    "sayanaject"
   ],
   [
     "desmopressin",
     "desmopressinacetat",
-    "veluna"
-  ],
-  [
-    "desmopressin",
     "desmopressinacetat carefarm",
     "desmopressinacetattrihydrat",
     "minirin",
+    "minirin melt",
+    "minirinmelt",
     "nocdurna",
     "nocutil",
-    "octostim"
-  ],
-  [
-    "desmopressin",
-    "minirin",
-    "minirin melt",
-    "minirinmelt"
+    "octostim",
+    "veluna"
   ],
   [
     "dexibuprofen",
@@ -8634,9 +8030,28 @@
   ],
   [
     "diclac forte",
+    "dicloabak",
+    "diclodan",
+    "diclofenac",
+    "diclofenac rapid",
     "diclofenacdiethylammonium",
+    "diclofenackalium",
+    "diclofenacnatrium",
+    "diclofenacnatrium carefarm",
+    "diclofenacnatrium retard",
+    "diclon",
+    "diclopar",
+    "dicloren",
+    "diclosup",
+    "dicuno",
+    "diklofenak",
+    "solaraze",
+    "spraymik",
+    "viclonor",
+    "voltabak",
     "voltaren",
-    "voltaren forte"
+    "voltaren forte",
+    "voltarol"
   ],
   [
     "dimazon vet.",
@@ -8650,20 +8065,17 @@
   ],
   [
     "dolutegravir",
+    "dolutegravirnatrium",
     "tivicay"
   ],
   [
     "dornase alfa",
+    "dornase alfa (desoxiribonuclease)",
     "pulmozyme"
   ],
   [
     "droncit vet.",
     "praziquantel"
-  ],
-  [
-    "drontal vet.",
-    "frontcontrol wormer",
-    "praziquantel, pyrantelembonat"
   ],
   [
     "effipro comp",
@@ -8702,6 +8114,7 @@
   ],
   [
     "epoprostenol",
+    "epoprostenolnatrium",
     "flolan"
   ],
   [
@@ -8778,6 +8191,7 @@
     "genta-equine",
     "gentacoll",
     "gentamicin",
+    "gentamicin b. braun",
     "gentamicinsulfat",
     "gentavet",
     "gentocin vet.",
@@ -8817,15 +8231,12 @@
     "vetbromide"
   ],
   [
-    "lenalidomide",
-    "lenalidomide krka",
-    "lenalidomide krka d.d. novo mesto",
-    "lenalidomidhydrochloridhydrat"
-  ],
-  [
     "lercanidipin",
+    "lercanidipine",
     "lercanidipinhydrochlorid",
-    "lercanidipinhydrochlorid carefarm"
+    "lercanidipinhydrochlorid carefarm",
+    "lercatio",
+    "zanidip"
   ],
   [
     "levofloxacin",
@@ -8837,13 +8248,6 @@
   [
     "levosimendan",
     "simdax"
-  ],
-  [
-    "losanova hct",
-    "losartan og diuretika",
-    "losartankalium/hydrochlorthiazid",
-    "myrlosar comp",
-    "sartanix"
   ],
   [
     "luspatercept",
@@ -8858,13 +8262,6 @@
     "revozyn rtu"
   ],
   [
-    "medikinet cr",
-    "methylphenidat",
-    "methylphenidathydrochlorid carefarm",
-    "methyx",
-    "metyfen"
-  ],
-  [
     "mhyogen vet.",
     "mhyosphere pcv id",
     "mycoplasma hyopneumoniae, inaktiveret"
@@ -8876,9 +8273,6 @@
   [
     "myodine vet.",
     "nandrolonlaurat"
-  ],
-  [
-    "noradrenalin"
   ],
   [
     "odronextamab",
@@ -8928,12 +8322,6 @@
     "skyrizi"
   ],
   [
-    "sterilt vand",
-    "sterilt vand mini-plasco",
-    "sterilt vand viaflo",
-    "vand, sterilt"
-  ],
-  [
     "streptozocin",
     "zanosar"
   ],
@@ -8944,14 +8332,6 @@
   [
     "tildipirosin",
     "zuprevo"
-  ],
-  [
-    "tilsing vet.",
-    "tylan vet.",
-    "tylmasin",
-    "tylosin",
-    "tylovet",
-    "tylucyl"
   ],
   [
     "treprostinil",
@@ -8969,19 +8349,12 @@
   [
     "valaciclovir",
     "valaciclovir bluefish",
+    "valaciclovirhydrochlorid",
     "valaciclovirhydrochloridmonohydrat"
-  ],
-  [
-    "valaciclovir",
-    "valaciclovirhydrochlorid"
   ],
   [
     "valerianerod",
     "valerina forte"
-  ],
-  [
-    "zoledronsyre",
-    "zoledronsyre hospira"
   ],
   [
     "zolmitriptan",
@@ -8989,6 +8362,7 @@
   ],
   [
     "acalabrutinib",
+    "acalabrutinibmaleat",
     "calquence"
   ],
   [
@@ -9061,16 +8435,12 @@
     "clindabactin",
     "clindamycin",
     "clindamycinhydrochlorid",
+    "clindamycinphosphat",
     "clindaseptin",
     "dalacin",
     "dalacin c",
     "givix vet.",
     "soluclin vet."
-  ],
-  [
-    "antirobe vet.",
-    "clindamycin",
-    "givix vet."
   ],
   [
     "apiguard vet.",
@@ -9172,16 +8542,9 @@
   ],
   [
     "cetraxal comp",
-    "ciprofloxacin, fluocinolonacetonid"
-  ],
-  [
-    "cetraxal comp",
+    "ciprofloxacin, fluocinolonacetonid",
     "fluocinolonacetonid og antiinfektiva",
     "paraxal duo"
-  ],
-  [
-    "ciprofloxacin",
-    "ciprofloxacinhydrochlorid (monohydrat)"
   ],
   [
     "cirbloc m hyo",
@@ -9200,6 +8563,7 @@
     "codilek depot",
     "coxynon depot",
     "lindoxa",
+    "oxycodon",
     "oxycodone",
     "oxycodonhydrochlorid",
     "oxycontin depot",
@@ -9218,13 +8582,6 @@
     "medicinsk oxygen",
     "medicinsk oxygen 100 %",
     "oxygen"
-  ],
-  [
-    "coxynon depot",
-    "oxycodon",
-    "oxycodonhydrochlorid",
-    "oxycontin depot",
-    "reltebon depot"
   ],
   [
     "credelio plus",
@@ -9262,32 +8619,16 @@
   [
     "dapagliflozin",
     "dapagliflozin viatris",
-    "dofliga"
-  ],
-  [
-    "dapagliflozin",
     "dapagliflozinpropandiolmonohydrat",
+    "dofliga",
     "edistride",
     "figozap",
     "forxiga"
   ],
   [
-    "denagard vet.",
-    "tiamulinhydrogenfumarat til veterinær anvendelse",
-    "tiamvet",
-    "tiasol",
-    "tyawalt",
-    "vetmulin",
-    "vetmulin vet."
-  ],
-  [
     "diamicron uno",
     "gliclazid",
     "zodediab mr"
-  ],
-  [
-    "dicloxacillin",
-    "dicloxacillinnatrium monohydrat"
   ],
   [
     "dimenhydrinat"
@@ -9300,10 +8641,6 @@
     "ecoporc shiga",
     "escherichia coli, recombinant shiga toxin 2e",
     "vepured"
-  ],
-  [
-    "elektrolytter",
-    "natriumklorid"
   ],
   [
     "endolucinbeta",
@@ -9349,12 +8686,6 @@
     "natriumcromoglicat"
   ],
   [
-    "lercanidipine",
-    "lercanidipinhydrochlorid",
-    "lercatio",
-    "zanidip"
-  ],
-  [
     "linvoseltamab",
     "lynozyfic"
   ],
@@ -9376,18 +8707,6 @@
   [
     "methoxyfluran",
     "penthrox"
-  ],
-  [
-    "metoclopramid",
-    "metoclopramide accord"
-  ],
-  [
-    "midaquin vet.",
-    "midazolam",
-    "midazolam carefarm",
-    "midazolam medical valley",
-    "miprosed",
-    "ozalin"
   ],
   [
     "mipet easecto",
@@ -9426,10 +8745,6 @@
     "trental"
   ],
   [
-    "pivmecillinam",
-    "pivmecillinamhydrochlorid"
-  ],
-  [
     "porcilis prrs",
     "porcilis prrs vet.",
     "porcint reproduktivt og respiratorisk syndrom (prrs) virus, stamme dv (levende, svækket)"
@@ -9449,12 +8764,10 @@
   [
     "sterile water",
     "sterilt vand",
-    "vand til injektionsvæsker"
-  ],
-  [
-    "xylometazolin",
-    "xylometazolin menthol ukonserveret",
-    "xylometazolin ukonserveret"
+    "sterilt vand mini-plasco",
+    "sterilt vand viaflo",
+    "vand til injektionsvæsker",
+    "vand, sterilt"
   ],
   [
     "abacavirsulfat",
@@ -9546,19 +8859,6 @@
     "bordetella pertussis, pertactin (prn/69 kilodalton ydermembranprotein), bordetella pertussis, toxoid, clostridium tetani, toxoid, difteritoksoid, haemagglutinin, filamentøst, poliovirus type 1, stamme mahoney (inaktiveret), poliovirus type 2, stamme mef-1 (inaktiveret), poliovirus type 3, stamme saukett (inaktiveret)"
   ],
   [
-    "bupredine vet.",
-    "buprefarm",
-    "bupremyl",
-    "buprenorphin",
-    "buprenorphine",
-    "butrans",
-    "buvidal",
-    "norspan",
-    "sixmo",
-    "subutex",
-    "temgesic"
-  ],
-  [
     "calcium-sandoz",
     "calciumcarbonat, calciumlactogluconat"
   ],
@@ -9602,14 +8902,11 @@
   [
     "clarithromycin",
     "clarithromycin 1a pharma",
+    "clarithromycinlactobionat",
     "klacid",
     "klacid sr",
     "klacid uno",
     "klaricid"
-  ],
-  [
-    "clarithromycin",
-    "clarithromycinlactobionat"
   ],
   [
     "comfortan vet.",
@@ -9627,6 +8924,8 @@
   ],
   [
     "coversyl novum",
+    "mariper",
+    "perindopril",
     "perindoprilarginin"
   ],
   [
@@ -9665,24 +8964,8 @@
   ],
   [
     "dotarem arthro",
-    "gadoliniumoxid, gadoterinsyre"
-  ],
-  [
-    "dotarem arthro",
+    "gadoliniumoxid, gadoterinsyre",
     "gadoliniumoxid, gadoterinsyre, tetraxetan"
-  ],
-  [
-    "duta tamsaxiro",
-    "dutasterid, tamsulosinhydrochlorid",
-    "dutasterid/tamsulosinhydrochlorid",
-    "dutasteride/tamsulosinhydrochloride",
-    "unisol"
-  ],
-  [
-    "engemycin vet.",
-    "oxtra dd",
-    "oxytetracyclinhydrochlorid",
-    "terramycin vet."
   ],
   [
     "equilis strepe",
@@ -9746,10 +9029,6 @@
     "verapamilhydrochlorid"
   ],
   [
-    "isoptin retard",
-    "verapamil"
-  ],
-  [
     "ixazomibcitrat",
     "ninlaro"
   ],
@@ -9773,13 +9052,6 @@
     "xaluprine"
   ],
   [
-    "metoclopramide",
-    "metoclopramide accord",
-    "metoclopramidhydrochlorid",
-    "metomotyl",
-    "primperan"
-  ],
-  [
     "nitrofurantoin"
   ],
   [
@@ -9795,18 +9067,12 @@
     "ypozane"
   ],
   [
-    "protaminsulfat"
-  ],
-  [
     "quadrisol vet.",
     "vedaprofen"
   ],
   [
     "technescan pyp",
     "technetium (99m-tc) pyrophosphat, tetranatriumpyrofosfatdecahydrat"
-  ],
-  [
-    "valganciclovir"
   ],
   [
     "agalsidase alfa",
@@ -9882,14 +9148,6 @@
     "symbicort turbuhaler"
   ],
   [
-    "bluetonguevirus",
-    "bovilis blue-8"
-  ],
-  [
-    "botulinum toxin",
-    "dysport"
-  ],
-  [
     "bovalto respi 2",
     "bovint parainfluenza 3 virus, stamme bi0-23 (inaktiveret), bovint respiratorisk syncytialt virus (brsv), stamme bi0-24 (inaktiveret)"
   ],
@@ -9915,6 +9173,7 @@
     "cardosin retard",
     "carduran retard",
     "doxablox",
+    "doxagamma",
     "doxazosin",
     "doxazosin carefarm",
     "doxazosinmesilat",
@@ -9950,12 +9209,9 @@
     "cyclophosphamid",
     "cyclophosphamid carefarm",
     "cyclophosphamid, vandfrit",
+    "cyclophosphamide",
+    "cyclophosphamidmonohydrat",
     "sendoxan"
-  ],
-  [
-    "cyclophosphamid",
-    "cyclophosphamid carefarm",
-    "cyclophosphamide"
   ],
   [
     "danilon equidos",
@@ -9966,11 +9222,6 @@
     "depakine chrono",
     "deprakine retard",
     "natriumvalproat, valproinsyre"
-  ],
-  [
-    "depakine retard",
-    "orfiril long",
-    "valproinsyre"
   ],
   [
     "dermanolon vet.",
@@ -10094,17 +9345,22 @@
     "aerivio spiromax",
     "airexar spiromax",
     "airflusal aerosol",
+    "airflusal forspiro",
     "airflusal sprayhaler",
     "bropair spiromax",
     "flusacomb",
+    "fluticasonpropionat, salmeterol",
     "fluticasonpropionat, salmeterolxinafoat",
     "salflumix easyhaler",
+    "salmeterol og fluticason",
     "salmeterol/fluticasone",
     "salmeterol/fluticasonpropionat",
+    "salmeterol/fluticasonpropionat cipla",
     "salmex",
     "seffalair spiromax",
     "serefarm",
-    "seretide"
+    "seretide",
+    "zoreeda ciphaler"
   ],
   [
     "aliskirenfumarat",
@@ -10123,6 +9379,7 @@
     "aurovet",
     "chloromed",
     "chlortetracyclinhydrochlorid",
+    "chlortetracyclinhydrochlorid, fodergrad",
     "cyclo spray vet.",
     "ophtaclin vet."
   ],
@@ -10202,14 +9459,6 @@
     "erysipelothrix rhusiopathiae, inaktiveret (serotype 2: e.r.-2-64; -2-5; -2-ii, serotype 1: -1-203), haemophilus parasuis, serotype 1, 5 og 13 (inaktiveret)"
   ],
   [
-    "cyclophosphamide",
-    "cyclophosphamidmonohydrat"
-  ],
-  [
-    "dacarbazincitrat",
-    "dacarbazine"
-  ],
-  [
     "degarelix accord",
     "degarelixacetat",
     "firmagon"
@@ -10217,25 +9466,6 @@
   [
     "deslorelinacetat",
     "suprelorin"
-  ],
-  [
-    "dexacortone vet.",
-    "dexafast",
-    "dexametason",
-    "dexametason abcur",
-    "dexamethason",
-    "dexamethasone",
-    "dexamethasone phosphate",
-    "fluormetylprednisolon vet.",
-    "maxidex",
-    "ozurdex",
-    "waladex",
-    "zeqmelit"
-  ],
-  [
-    "diclofenac rapid",
-    "diclofenackalium",
-    "dicuno"
   ],
   [
     "dinutuximab beta",
@@ -10414,10 +9644,6 @@
     "tafinlar"
   ],
   [
-    "dalteparinnatrium",
-    "fragmin"
-  ],
-  [
     "dany's bienenwohl",
     "oxalsyre, dihydrat",
     "oxybee"
@@ -10428,10 +9654,6 @@
     "tolterodin",
     "tolterodine",
     "tolterodintartrat"
-  ],
-  [
-    "detrusitol retard",
-    "tolterodin"
   ],
   [
     "dimethyl fumarate",
@@ -10445,6 +9667,7 @@
   ],
   [
     "duspatalin retard",
+    "mebeverin",
     "mebeverinhydrochlorid"
   ],
   [
@@ -10494,11 +9717,6 @@
     "ipramol steri-neb",
     "ipratropium/salbutamol",
     "ipratropiumbromid, salbutamolsulfat"
-  ],
-  [
-    "ipratropiumbromid",
-    "iprazap",
-    "lomuspray"
   ],
   [
     "ketanserintartrat",
@@ -10552,10 +9770,6 @@
     "siiltibcy"
   ],
   [
-    "tafamidismeglumin",
-    "vyndaqel"
-  ],
-  [
     "tasipimidinsulfat",
     "tessie"
   ],
@@ -10576,32 +9790,8 @@
     "alacare"
   ],
   [
-    "abacavir/lamivudin",
-    "abacavir/lamivudine",
-    "abacavirhydrochlorid, lamivudin"
-  ],
-  [
-    "abacavir/lamivudin",
-    "abacavir/lamivudine",
-    "abacavirsulfat, lamivudin",
-    "kivexa"
-  ],
-  [
     "aesculaforce forte",
     "hestekastanjefrø, ekstrakt, standardiseret"
-  ],
-  [
-    "airflusal forspiro",
-    "bropair spiromax",
-    "salmeterol og fluticason",
-    "salmeterol/fluticasonpropionat",
-    "salmeterol/fluticasonpropionat cipla",
-    "seretide",
-    "zoreeda ciphaler"
-  ],
-  [
-    "airflusal forspiro",
-    "fluticasonpropionat, salmeterol"
   ],
   [
     "alk (553) hundehår",
@@ -10625,15 +9815,6 @@
     "amoxicillinnatrium",
     "baxumil",
     "multimox"
-  ],
-  [
-    "asmanex twisthaler",
-    "elocom",
-    "elocon",
-    "elopar",
-    "mometasonfuroat",
-    "nasonex",
-    "ovison"
   ],
   [
     "avatrombopagmaleat",
@@ -10679,17 +9860,6 @@
     "isovorin"
   ],
   [
-    "carbidopa/levodopa",
-    "carbidopamonohydrat, levodopa",
-    "flexilev",
-    "levodopa/carbidopa",
-    "sinemet 25/100"
-  ],
-  [
-    "carbidopa/levodopa",
-    "levodopa og decarboxylase-hæmmer"
-  ],
-  [
     "certolizumab pegol",
     "cimzia"
   ],
@@ -10730,13 +9900,6 @@
     "dinatriumgadoxetat",
     "primovist",
     "primovist pfs"
-  ],
-  [
-    "dorzolamid/timolol",
-    "dorzolamid/timolol carefarm",
-    "fixaprost",
-    "timolol, kombinationer",
-    "tirzopt"
   ],
   [
     "enfortumab vedotin",
@@ -10793,12 +9956,6 @@
     "lincoral-s"
   ],
   [
-    "medroxyprogesteron",
-    "provera",
-    "sayana",
-    "sayanaject"
-  ],
-  [
     "methacholinchlorid",
     "provocholine"
   ],
@@ -10820,26 +9977,17 @@
     "talzenna"
   ],
   [
-    "tilmicosinphosphat",
-    "tilmicosol",
-    "tilmovet",
-    "tilmovet vet."
-  ],
-  [
     "velaglucerase alfa",
     "vpriv"
   ],
   [
     "abacavir, lamivudin",
-    "abacavir/lamivudine"
-  ],
-  [
+    "abacavir/lamivudin",
     "abacavir/lamivudine",
+    "abacavirhydrochlorid, lamivudin",
+    "abacavirsulfat, lamivudin",
+    "kivexa",
     "lamivudin og abacavir"
-  ],
-  [
-    "acalabrutinibmaleat",
-    "calquence"
   ],
   [
     "amlodipin/valsartan",
@@ -10884,8 +10032,14 @@
   [
     "carbidopa, levodopa",
     "carbidopa/levodopa",
+    "carbidopamonohydrat, levodopa",
     "duodopa",
+    "flexilev",
+    "foscarbidopa, foslevodopa",
+    "levodopa og decarboxylase-hæmmer",
+    "levodopa/carbidopa",
     "sinemet 12,5/50",
+    "sinemet 25/100",
     "sinemet depot mite"
   ],
   [
@@ -10933,10 +10087,6 @@
     "enzaprost"
   ],
   [
-    "dolutegravirnatrium",
-    "tivicay"
-  ],
-  [
     "dopaminhydrochlorid",
     "neoatricon"
   ],
@@ -10944,10 +10094,6 @@
     "enerzair breezhaler",
     "glycopyrroniumbromid, indacaterolacetat, mometasonfuroat",
     "zimbus breezhaler"
-  ],
-  [
-    "epoprostenolnatrium",
-    "flolan"
   ],
   [
     "escherichia vaccine",
@@ -11096,10 +10242,6 @@
     "novastan"
   ],
   [
-    "atovaquone/proguanil",
-    "proguanil og atovaquon"
-  ],
-  [
     "avalglucosidase alfa",
     "nexviadyme"
   ],
@@ -11118,12 +10260,19 @@
   [
     "bupaq multidose vet.",
     "bupaq vet.",
+    "bupredine vet.",
+    "buprefarm",
     "buprelab",
+    "bupremyl",
     "buprenorphin",
     "buprenorphin carefarm",
     "buprenorphine",
     "buprenorphinhydrochlorid",
+    "butrans",
+    "buvidal",
+    "norspan",
     "norvipren",
+    "sixmo",
     "subutex",
     "temgesic",
     "vetergesic vet."
@@ -11164,12 +10313,6 @@
     "steglatro"
   ],
   [
-    "ezetimib/simvastatin",
-    "ezetimibe/simvastatin",
-    "simvastatin og ezetimib",
-    "vasitimb"
-  ],
-  [
     "fosamprenavircalcium",
     "telzir"
   ],
@@ -11197,18 +10340,6 @@
     "kryptoscan"
   ],
   [
-    "lidocainhydrochlorid",
-    "lidokain",
-    "lidor vet.",
-    "lignovet",
-    "xylocain",
-    "xylocain ukonserveret"
-  ],
-  [
-    "mycophenolatemofetil",
-    "mycophenolsyre"
-  ],
-  [
     "natriumiodid (123-i)",
     "sodium iodide (123 i) injection",
     "sodium iodide (i123) injection"
@@ -11226,15 +10357,12 @@
   ],
   [
     "pasireotiddiaspartat",
+    "pasireotide",
     "signifor"
   ],
   [
     "radium-223 dichlorid",
     "xofigo"
-  ],
-  [
-    "sacubitril/valsartan",
-    "sacubitrilnatrium, valsartan"
   ],
   [
     "sars-cov-2 jn.1 mrna",
@@ -11246,20 +10374,10 @@
   ],
   [
     "tenofovir disoproxil",
-    "tenofovir disoproxilphosphat"
-  ],
-  [
-    "tenofovir disoproxil",
-    "tenofovirdisoproxil-succinat"
-  ],
-  [
-    "tenofovir disoproxil",
+    "tenofovir disoproxilphosphat",
+    "tenofovirdisoproxil-succinat",
     "tenofovirdisoproxilfumarat",
     "viread"
-  ],
-  [
-    "thiamin (vitamin b1)",
-    "thiaminhydrochlorid"
   ],
   [
     "actraphane 10 novolet",
@@ -11377,7 +10495,9 @@
     "ezetimib/simvastatin",
     "ezetimibe/simvastatin",
     "ezimvalla",
-    "inegy"
+    "inegy",
+    "simvastatin og ezetimib",
+    "vasitimb"
   ],
   [
     "fenoximetylpenicillin",
@@ -11421,10 +10541,6 @@
     "guanfacinhydrochlorid",
     "intuniv",
     "paxneury"
-  ],
-  [
-    "imidaprilhydrochlorid",
-    "prilium vet."
   ],
   [
     "isoniazid, rifampicin",
@@ -11507,14 +10623,6 @@
     "stronghold plus"
   ],
   [
-    "theophyllinmonohydrat",
-    "unixan"
-  ],
-  [
-    "zoledronsyre, vandfri",
-    "zometa"
-  ],
-  [
     "acoramidishydrochlorid",
     "beyonttra"
   ],
@@ -11531,10 +10639,6 @@
     "cepralock vet.",
     "dryseal vet.",
     "fatroseal"
-  ],
-  [
-    "calcipotriolmonohydrat",
-    "daivonex"
   ],
   [
     "calciumchloriddihydrat",
@@ -11635,10 +10739,6 @@
     "octaplaslg (o)"
   ],
   [
-    "idarubicinhydrochlorid",
-    "zavedos"
-  ],
-  [
     "lincomycinhydrochlorid",
     "lyncoo",
     "noromylin vet."
@@ -11666,10 +10766,6 @@
     "suxameton"
   ],
   [
-    "adapalen, kombinationer",
-    "epiduo"
-  ],
-  [
     "advantage vet. til hund",
     "advantage vet. til hunde (10-25 kg)",
     "advantage vet. til hunde (4-10 kg)",
@@ -11688,15 +10784,6 @@
   [
     "benzocain, myrratinktur",
     "dolodent"
-  ],
-  [
-    "betamethasondipropionat",
-    "diproderm"
-  ],
-  [
-    "bupropion hydrochloride",
-    "bupropionhydrochlorid",
-    "zyban"
   ],
   [
     "chlormethinhydrochlorid",
@@ -11791,34 +10878,8 @@
     "phesgo"
   ],
   [
-    "piperacillin/tazobactam",
-    "piperacillinmonohydrat, tazobactam"
-  ],
-  [
-    "piperacillin/tazobactam",
-    "piperacillinnatrium, tazobactamnatrium"
-  ],
-  [
     "aciclovir, hydrocortison",
     "zoviduo"
-  ],
-  [
-    "amoxicillin/clavulansyre",
-    "amoxicillin/clavulansyre aurobindo",
-    "amoxicillintrihydrat, kaliumclavulanat",
-    "augmentin forte",
-    "bioclavid",
-    "clavaseptin",
-    "clavubactin vet.",
-    "clavucill",
-    "clavusan vet.",
-    "clavuzop",
-    "kesium",
-    "klaximol",
-    "noroclav vet.",
-    "spectrabactin vet.",
-    "spektramox",
-    "synulox vet. til kalve"
   ],
   [
     "apraclonidinhydrochlorid",
@@ -11847,6 +10908,7 @@
   ],
   [
     "bluetongue virus vaccine",
+    "bluetonguevirus",
     "bovilis blue-8"
   ],
   [
@@ -11856,10 +10918,6 @@
   [
     "cefiderocolsulfattosilat",
     "fetcroja"
-  ],
-  [
-    "cholecalciferoldiluendum",
-    "divisun"
   ],
   [
     "codeinphosphathemihydrat",
@@ -11885,12 +10943,14 @@
   ],
   [
     "drontal comp. forte vet.",
+    "drontal vet.",
     "drontaste",
     "endogard plus flavour",
     "endogard plus xl",
     "febantel, praziquantel, pyrantelembonat",
     "frontcontrol wormer",
     "frontcontrol wormer xl",
+    "praziquantel, pyrantelembonat",
     "prazitel forte vet.",
     "prazitel plus"
   ],
@@ -11935,17 +10995,8 @@
     "levopidon"
   ],
   [
-    "metformin og sitagliptin",
-    "sitagliptin/metformin"
-  ],
-  [
     "metronidazol, spiramycin",
     "spizobactin vet."
-  ],
-  [
-    "nicotinbitartratdihydrat",
-    "nicotinell mint",
-    "zonnic mint"
   ],
   [
     "oxytetracyclin, vandfrit",
@@ -11957,7 +11008,9 @@
   ],
   [
     "piperacillin, tazobactam",
-    "piperacillin/tazobactam"
+    "piperacillin/tazobactam",
+    "piperacillinmonohydrat, tazobactam",
+    "piperacillinnatrium, tazobactamnatrium"
   ],
   [
     "poulvac procerta hvt-ibd",
@@ -11975,20 +11028,36 @@
   [
     "alamycin prolongatum vet.",
     "aquacycline vet.",
+    "engemycin vet.",
     "labimycin la",
+    "oxtra dd",
     "oxytetracyclin",
+    "oxytetracyclinhydrochlorid",
     "terramycin vet.",
     "tetroxy prolongatum vet.",
     "veticyclin prolongatum vet."
   ],
   [
-    "alk (225) phleum pratense",
-    "engrottehale (græspollenallergen)",
-    "grazax"
-  ],
-  [
     "amoxicillin, clavulansyre",
-    "noroclav vet."
+    "amoxicillin/clavulansyre",
+    "amoxicillin/clavulansyre aurobindo",
+    "amoxicillintrihydrat, clavulansyre",
+    "amoxicillintrihydrat, kaliumclavulanat",
+    "augmentin forte",
+    "betaklav",
+    "bioclavid",
+    "clavaseptin",
+    "clavubactin vet.",
+    "clavucill",
+    "clavusan vet.",
+    "clavuzop",
+    "kesium",
+    "klaximol",
+    "noroclav vet.",
+    "spectrabactin vet.",
+    "spektramox",
+    "strenzen",
+    "synulox vet. til kalve"
   ],
   [
     "atacand zid 16 mg/12,5 mg",
@@ -12053,10 +11122,6 @@
     "maviret"
   ],
   [
-    "metformin og vildagliptin",
-    "vildagliptin/metformin"
-  ],
-  [
     "natriumpolystyrensulfonat",
     "resonium",
     "resonium natrium"
@@ -12109,7 +11174,8 @@
   [
     "alk (108) betula verrucosa",
     "betula verrucosa ehrh. (vortebirk, synonym af b. pendula roth)",
-    "itulazax"
+    "itulazax",
+    "træpollen"
   ],
   [
     "amlodipinbesilat, ramipril",
@@ -12125,11 +11191,17 @@
   ],
   [
     "betamethason, calcipotriol",
+    "betamethasondinatriumphosphat, calcipotriol hydrate",
+    "betamethasondipropionat, calcipotriol hydrate",
+    "calcipotriol, kombinationer",
     "calcipotriol/betamethason",
     "calcipotriol/betamethason carefarm",
     "calcipotriol/betamethasone",
     "calcipotriol/betamethasone sandoz",
-    "cipotanor"
+    "cipotanor",
+    "daivobet",
+    "epipotriol",
+    "xamiol"
   ],
   [
     "bimatoprost, timololmaleat",
@@ -12216,11 +11288,6 @@
     "bovin coronavirus, stamme mebus (inaktiveret), bovin rotavirus, stamme uk-compton, serotype g6 p5, inaktiveret, escherichia coli, antigen k99 (f5)"
   ],
   [
-    "calcipotriol, kombinationer",
-    "daivobet",
-    "xamiol"
-  ],
-  [
     "citanest dental octapressin",
     "felypressin, prilocainhydrochlorid"
   ],
@@ -12232,10 +11299,6 @@
     "dienogest, ethinylestradiol",
     "kelzyn",
     "yana"
-  ],
-  [
-    "galieve forte mixed berries",
-    "natriumalginat, natriumhydrogencarbonat"
   ],
   [
     "hydrochlorthiazid, ramipril",
@@ -12430,7 +11493,9 @@
     "acetylisovaleryltylosintartrat",
     "aivlosin",
     "aivlosin til fasaner",
-    "aivlosin til kyllinger"
+    "aivlosin til kalkuner",
+    "aivlosin til kyllinger",
+    "tylvalosintartrat"
   ],
   [
     "acetylsalicylsyre, dipyridamol",
@@ -12441,6 +11506,7 @@
   [
     "apovit b1 vitamin ekstra stærk",
     "bevione",
+    "thiamin (vitamin b1)",
     "thiamine",
     "thiaminhydrochlorid",
     "thiatum",
@@ -12464,7 +11530,14 @@
   ],
   [
     "carbidopa, entacapon, levodopa",
-    "levodopa/carbidopa/entacapone"
+    "carbidopamonohydrat, entacapon, levodopa",
+    "corbilta",
+    "lecigon",
+    "levodopa carbidopa entacapone",
+    "levodopa, decarboxylase-hæmmer og comt-hæmmer",
+    "levodopa/carbidopa/entacapone",
+    "pentiro",
+    "stalevo"
   ],
   [
     "chenodeoxycholic acid leadiant",
@@ -12489,7 +11562,10 @@
   ],
   [
     "gonadotropin, human menopausal",
-    "menopur"
+    "menopur",
+    "menotropin",
+    "meriofert",
+    "meriofert set"
   ],
   [
     "latanoprost, netarsudilmesilat",
@@ -12589,6 +11665,7 @@
   ],
   [
     "adapalen, benzoylperoxid, vandig",
+    "adapalen, kombinationer",
     "adapalene/benzoyl peroxide",
     "cutimum",
     "epiduo"
@@ -12598,6 +11675,7 @@
     "atovaquone/proguanil",
     "malarone",
     "malastad",
+    "proguanil og atovaquon",
     "provaqomyl"
   ],
   [
@@ -12662,10 +11740,6 @@
     "metvix"
   ],
   [
-    "methylprednisolonnatriumsuccinat",
-    "solu-medrol"
-  ],
-  [
     "pirlimycinhydrochloridmonohydrat",
     "pirsue"
   ],
@@ -12698,14 +11772,6 @@
   [
     "dihydroxyaluminiumnatriumcarbonat",
     "noacid"
-  ],
-  [
-    "dornase alfa (desoxiribonuclease)",
-    "pulmozyme"
-  ],
-  [
-    "emtricitabin, tenofovirdisoproxil",
-    "emtricitabine/tenofovir disoproxil"
   ],
   [
     "escherichia + clostridium vaccine",
@@ -12741,13 +11807,6 @@
   [
     "alk (504) dermatophagoides farinae",
     "dermatophagoides farinae"
-  ],
-  [
-    "amoxicillintrihydrat, clavulansyre",
-    "betaklav",
-    "clavaseptin",
-    "kesium",
-    "strenzen"
   ],
   [
     "benazeprilhydrochlorid, pimobendan",
@@ -12788,12 +11847,6 @@
   [
     "levonorgestrel og ethinylestradiol",
     "microstad"
-  ],
-  [
-    "metforminhydrochlorid, sitagliptin",
-    "sitagliptin/metformin",
-    "sitagliptin/metformin hydrochloride accord",
-    "sitagliptin/metformin hydrochloride mylan"
   ],
   [
     "aliskirenfumarat, hydrochlorthiazid",
@@ -12867,10 +11920,6 @@
     "cardiospir plus"
   ],
   [
-    "cabozantinib, cabozantinib (s)-malat",
-    "cometriq"
-  ],
-  [
     "canagliflozin, metforminhydrochlorid",
     "vokanamet"
   ],
@@ -12892,6 +11941,8 @@
   ],
   [
     "econazolnitrat, triamcinolonacetonid",
+    "imidazoler/triazoler i kombination med kortikosteroider",
+    "pevison",
     "pevisone",
     "triamcinolonacetonid/econazolnitrat"
   ],
@@ -13037,10 +12088,6 @@
     "terraxin"
   ],
   [
-    "koagulationsfaktor viii (rdna), humant",
-    "kogenate"
-  ],
-  [
     "lawsonia intracellularis, lyofiliseret",
     "porcilis lawsonia vet."
   ],
@@ -13050,6 +12097,7 @@
   ],
   [
     "abacavirsulfat, dolutegravir, lamivudin",
+    "abacavirsulfat, dolutegravirnatrium, lamivudin",
     "triumeq"
   ],
   [
@@ -13101,23 +12149,8 @@
     "vipdomet"
   ],
   [
-    "carbidopamonohydrat, entacapon, levodopa",
-    "corbilta",
-    "lecigon",
-    "levodopa/carbidopa/entacapone",
-    "pentiro",
-    "stalevo"
-  ],
-  [
     "clotrimazol, dexamethason, marbofloxacin",
     "otoxolan"
-  ],
-  [
-    "emtricitabin, tenofovirdisoproxilfumarat",
-    "emtricitabin/tenofovirdisoproxil",
-    "emtricitabine/tenofovir disoproxil",
-    "oremten",
-    "truvada"
   ],
   [
     "fiskeolie, glycerol, renset ægphosphatid",
@@ -13137,10 +12170,19 @@
   ],
   [
     "emtricitabin, tenofovir disoproxil maleat",
-    "emtricitabine/tenofovir disoproxil"
+    "emtricitabin, tenofovir disoproxilphosphat",
+    "emtricitabin, tenofovirdisoproxil",
+    "emtricitabin, tenofovirdisoproxil-succinat",
+    "emtricitabin, tenofovirdisoproxilfumarat",
+    "emtricitabin/tenofovirdisoproxil",
+    "emtricitabine/tenofovir disoproxil",
+    "emtricitabine/tenofovir disoproxil d.d.",
+    "oremten",
+    "truvada"
   ],
   [
     "enalaprilmaleat, lercanidipinhydrochlorid",
+    "enalaprilmaleat, lercanidipinhydrochloridhemihydrat",
     "enalaprilmaleat/lercanidipinhydrochlorid"
   ],
   [
@@ -13196,15 +12238,6 @@
     "bicavera 2,3% glucose, 1,75 mmol/l calcium",
     "bicavera 4,25% glucose, 1,75 mmol/l calcium",
     "calciumchlorid, vandfrit, glucosemonohydrat, magnesiumchloridhexahydrat, natriumchlorid, natriumhydrogencarbonat"
-  ],
-  [
-    "emtricitabin, tenofovir disoproxilphosphat",
-    "emtricitabine/tenofovir disoproxil"
-  ],
-  [
-    "emtricitabin, tenofovirdisoproxil-succinat",
-    "emtricitabine/tenofovir disoproxil",
-    "emtricitabine/tenofovir disoproxil d.d."
   ],
   [
     "estradiolvalerat, medroxyprogesteronacetat",
@@ -13311,10 +12344,6 @@
     "zymelin plus"
   ],
   [
-    "kaliumchlorid, macrogol 3350, natriumchlorid",
-    "moviprep"
-  ],
-  [
     "tiletaminhydrochlorid, zolazepamhydrochlorid",
     "zoletil 100 vet.",
     "zoletil 50 vet."
@@ -13326,13 +12355,6 @@
   [
     "abirateronacetat, niraparib-tosylatmonohydrat",
     "akeega"
-  ],
-  [
-    "betamethasondipropionat, calcipotriol hydrate",
-    "calcipotriol/betamethasone",
-    "daivobet",
-    "epipotriol",
-    "xamiol"
   ],
   [
     "ketorolactrometamol, phenylephrinhydrochlorid",
@@ -13348,12 +12370,9 @@
     "xidolfen"
   ],
   [
-    "abacavirsulfat, dolutegravirnatrium, lamivudin",
-    "triumeq"
-  ],
-  [
     "cyanocobalamin, folsyre, pyridoxinhydrochlorid",
-    "triobe"
+    "triobe",
+    "vitamin b-complex, incl. kombinationer"
   ],
   [
     "dapagliflozinpropandiolmonohydrat, saxagliptin",
@@ -13382,11 +12401,6 @@
   [
     "medetomidinhydrochlorid, vatinoxanhydrochlorid",
     "zenalpha"
-  ],
-  [
-    "metforminhydrochlorid, sitagliptinhydrochlorid",
-    "sitagliptin/metformin",
-    "sitagliptin/metforminhydrochlorid"
   ],
   [
     "newcastle disease virus, stamme clone, levende",
@@ -13476,11 +12490,6 @@
     "norospeclin vet."
   ],
   [
-    "naloxonhydrochloriddihydrat, oxycodonhydrochlorid",
-    "oxycodone/naloxone",
-    "targin"
-  ],
-  [
     "rabiesvirus, stamme sad vnukovo-32 ( inaktiveret)",
     "versiguard rabies",
     "versiguard rabies vet."
@@ -13528,21 +12537,8 @@
     "marcain-adrenalin"
   ],
   [
-    "betamethasondinatriumphosphat, calcipotriol hydrate",
-    "calcipotriol/betamethasone"
-  ],
-  [
     "dexamethasonnatriumphosphat, levofloxacinhemihydrat",
     "ducressa"
-  ],
-  [
-    "efavirenz, emtricitabin, tenofovirdisoproxilfumarat",
-    "efavirenz/emtricitabine/tenofovir disoproxil",
-    "fatrino"
-  ],
-  [
-    "enalaprilmaleat, lercanidipinhydrochloridhemihydrat",
-    "enalaprilmaleat/lercanidipinhydrochlorid"
   ],
   [
     "encephalitisvirus, japansk, inaktiveret, hele virus",
@@ -13578,7 +12574,9 @@
   ],
   [
     "naloxonhydrochlorid (vandfrit), oxycodonhydrochlorid",
-    "oxycodone/naloxone"
+    "naloxonhydrochloriddihydrat, oxycodonhydrochlorid",
+    "oxycodone/naloxone",
+    "targin"
   ],
   [
     "olmesartan medoxomil, amlodipin og hydrochlorthiazid",
@@ -13590,6 +12588,7 @@
   ],
   [
     "alginsyre, aluminiumhydroxid, natriumhydrogencarbonat",
+    "aluminiumhydroxidgel, calciumcarbonat, natriumalginat, natriumhydrogencarbonat",
     "gaviscon"
   ],
   [
@@ -13599,8 +12598,10 @@
   ],
   [
     "efavirenz, emtricitabin, tenofovirdisoproxil-succinat",
+    "efavirenz, emtricitabin, tenofovirdisoproxilfumarat",
     "efavirenz/emtricitabine/tenofovir disoproxil",
-    "emtenef"
+    "emtenef",
+    "fatrino"
   ],
   [
     "erysipelothrix rhusiopathiae serotype 2 (inaktiveret)",
@@ -13618,6 +12619,7 @@
   ],
   [
     "bictegravirnatrium, emtricitabin, tenofovir alafenamid",
+    "bictegravirnatrium, emtricitabin, tenofovir alafenamid fumarat",
     "biktarvy"
   ],
   [
@@ -13651,11 +12653,6 @@
     "equip t vet."
   ],
   [
-    "imidazoler/triazoler i kombination med kortikosteroider",
-    "pevison",
-    "pevisone"
-  ],
-  [
     "mycoplasma hyopneumoniae, stamme p-5722-3 (inaktiveret)",
     "stellamune mycoplasma vet."
   ],
@@ -13666,7 +12663,8 @@
     "galieve extra peppermint",
     "galieve forte",
     "galieve forte mixed berries",
-    "galieve peppermint"
+    "galieve peppermint",
+    "natriumalginat, natriumhydrogencarbonat"
   ],
   [
     "bacillus calmette guerin (bcg) dansk stamme 1331, svækket",
@@ -13745,10 +12743,6 @@
     "multimin vet"
   ],
   [
-    "methylprednisolonnatriumsuccinat, methylprednisolonsuccinat",
-    "solu-medrol"
-  ],
-  [
     "newcastle disease virus (ndv), stamme c2 (levende, svækket)",
     "nobilis nd c2"
   ],
@@ -13778,10 +12772,6 @@
     "spherox"
   ],
   [
-    "beclometasondipropionatmonohydrat, formoterolfumarat dihydrat",
-    "laberon"
-  ],
-  [
     "canine distemper virus, distemperoid stamme (levende svækket)",
     "distemink vet."
   ],
@@ -13794,10 +12784,6 @@
     "aviær infektiøs bursitis disease virus, stammevmg 91 (levende)",
     "gumbohatch",
     "nextmune"
-  ],
-  [
-    "bictegravirnatrium, emtricitabin, tenofovir alafenamid fumarat",
-    "biktarvy"
   ],
   [
     "bluetonguevirus, serotype 3, stamme btv-3/net2023, inaktiveret",
@@ -13833,10 +12819,6 @@
     "denguevirus, serotype 1, 2, 3, og 4, kimærisk (levende, svækket)",
     "dengvaxia",
     "qdenga"
-  ],
-  [
-    "distemper virus+adenovirus+parvovirus+parainfluenzavirus vaccine",
-    "nobivac dhppi vet."
   ],
   [
     "emtricitabin, rilpivirinhydrochlorid, tenofovirdisoproxilfumarat",
@@ -14016,10 +12998,6 @@
     "prevexxion rn+hvt+ibd"
   ],
   [
-    "aluminiumhydroxidgel, calciumcarbonat, natriumalginat, natriumhydrogencarbonat",
-    "gaviscon"
-  ],
-  [
     "canint leishmania infantum stamme lem75 (zymodene mon-1) rekombinant protein q",
     "letifend"
   ],
@@ -14044,10 +13022,6 @@
   [
     "bovin respiratorisk syncytial (brsv) virus (levende) mangler angivelse af stamme",
     "nasym"
-  ],
-  [
-    "metforminhydrochlorid, sitagliptinhydrochlorid, sitagliptinhydrochloridmonohydrat",
-    "sitagliptin/metformin"
   ],
   [
     "calciumchloriddihydrat, kaliumchlorid, natrium(s)-lactat opløsning, natriumchlorid",
@@ -14127,8 +13101,10 @@
   ],
   [
     "ascorbinsyre, kaliumchlorid, macrogol 3350, natriumascorbat, natriumchlorid, natriumsulfat, vandfrit",
+    "kaliumchlorid, macrogol 3350, natriumchlorid",
     "moviprep",
     "moviprep appelsin",
+    "osmotisk virkende laksantia",
     "plenvu"
   ],
   [
@@ -14181,6 +13157,7 @@
   ],
   [
     "5'-capped mrna encoding sars-cov-2, variant lp.8.1, spike protein, pre-fusion stabilised (k981p and v982p)",
+    "5'-capped mrna encoding sars-cov-2, variant lp.8.1, spike protein, pre-fusion stabilised (k981p and v982p), bretovameran",
     "comirnaty lp.8.1",
     "comirnaty lp.8.1 (frost)",
     "comirnaty lp.8.1 (køl)"
@@ -14250,10 +13227,6 @@
     "plasmalyte glucos 50 mg/ml"
   ],
   [
-    "5'-capped mrna encoding sars-cov-2, variant lp.8.1, spike protein, pre-fusion stabilised (k981p and v982p), bretovameran",
-    "comirnaty lp.8.1"
-  ],
-  [
     "canine parainfluenzavirus, stamme manhattan, leptospira canicola, inaktiveret, leptospira icterohæmorrhagia, inaktiveret",
     "canixin pi/l"
   ],
@@ -14272,10 +13245,6 @@
   [
     "felint calicivirus (fcv), stamme f9 (levende, svækket), felint herpesvirus type 1 (fhv), stamme g2620a (levende, svækket)",
     "nobivac ducat"
-  ],
-  [
-    "koagulationsfaktor ii, humant, koagulationsfaktor ix, humant, koagulationsfaktor vii, humant, koagulationsfaktor x, humant",
-    "octaplex"
   ],
   [
     "borrelia afzelii, stamme mslb 1004, borrelia burgdorferi sensu stricto, stamme mslb 8014, borrelia garinii, stamme mslb 1003",
@@ -14307,7 +13276,8 @@
   ],
   [
     "calciumchloriddihydrat, gelatinepolysuccinat, kaliumchlorid, magnesiumchloridhexahydrat, natriumacetattrihydrat, natriumchlorid",
-    "gelaspan"
+    "gelaspan",
+    "gelatineforbindelser"
   ],
   [
     "calciumchloriddihydrat, glucosemonohydrat, magnesiumchloridhexahydrat, natrium(s)-lactat, natriumchlorid, natriumhydrogencarbonat",
@@ -14479,10 +13449,6 @@
     "versican plus dhp"
   ],
   [
-    "clostridium tetani, toxoid, veterinær til heste, hesteinfluenzavirus a/equine-2/newmarket/1/93 ha/na subunits (inaktiveret), hesteinfluenzavirus a/equine-2/sydafrika/4/03 ha/na subunits (inaktiveret)",
-    "equilis prequenza te"
-  ],
-  [
     "aviær infektiøs bronchitisvirus (ibv), stamme massachusetts 41 (inaktiveret), kalkun rhinotracheitisvirus (trt), stamme but1#8544 (inaktiveret), newcastle disease virus, stamme ulster 2c (inaktiveret)",
     "nobilis multriva rt+ibm+nd+gm+reom"
   ],
@@ -14509,10 +13475,6 @@
   [
     "bovine respiratory syncytial virus, strain lym-56, live, bovine viral diarrhoea virus 1, recombinant protein, bovine viral diarrhoea virus 2, recombinant protein, parainfluenza-3 virus, stamme sf reisinger (inaktiveret)",
     "divence tetra"
-  ],
-  [
-    "clostridium tetani, toxoid, veterinær til heste, hesteinfluenzavirus a/equine-2/newmarket/2/93 [h-3n-8] canarypoxy virus, vcp1533 (rdna), hesteinfluenzavirus a2/equine/ohio /03, canarypox-vektor, vcp2242, natriumchlorid",
-    "proteqflu-te"
   ],
   [
     "clostridium perfringens type b, stamme 553, beta toxoid, clostridium perfringens type c, stamme 578, beta toxoid, clostridium perfringens type d, stamme 603, epsilon toxoid, clostridium tetani, toxoid, veterinær til heste",
@@ -14578,10 +13540,12 @@
   ],
   [
     "clostridium tetani, toxoid, veterinær til heste, hesteinfluenzavirus a/equine-2/kentucky/94 [h-3n-8] canarypoxy virus, vcp1529 (rdna), hesteinfluenzavirus a/equine-2/newmarket/2/93 [h-3n-8] canarypoxy virus, vcp1533 (rdna), natriumchlorid",
+    "clostridium tetani, toxoid, veterinær til heste, hesteinfluenzavirus a/equine-2/newmarket/2/93 [h-3n-8] canarypoxy virus, vcp1533 (rdna), hesteinfluenzavirus a2/equine/ohio /03, canarypox-vektor, vcp2242, natriumchlorid",
     "proteqflu-te"
   ],
   [
     "clostridium tetani, toxoid, veterinær til heste, hesteinfluenzavirus a/equine-1/prague/56, h7n7 antigen (inaktiveret), hesteinfluenzavirus a/equine-2/newmarket 1/93 (inaktiveret), hesteinfluenzavirus a/equine-2/newmarket 2/93 (inaktiveret)",
+    "clostridium tetani, toxoid, veterinær til heste, hesteinfluenzavirus a/equine-2/newmarket/1/93 ha/na subunits (inaktiveret), hesteinfluenzavirus a/equine-2/sydafrika/4/03 ha/na subunits (inaktiveret)",
     "equilis prequenza te"
   ],
   [
@@ -14602,6 +13566,7 @@
   ],
   [
     "canine hepatitisvirus type 2 (cav2), stamme manhatten lpv3 (levende, svækket), canine parainfluenzavirus (cpiv), stamme cornell (levende, svækket), canint parvovirus, stamme 154 (levende, svækket), hundesygevirus, stamme onderstepoort (levende, svækket)",
+    "distemper virus+adenovirus+parvovirus+parainfluenzavirus vaccine",
     "nobivac dhppi vet."
   ],
   [
@@ -14779,6 +13744,8 @@
   ],
   [
     "bordetella pertussis, filamentøs hæmagglutinin (fha), bordetella pertussis, toxoid, difteritoksoid, haemophilus influenza type b polysaccharid, konjugeret til tetanus protein, hepatitis-b overflade antigen, poliovirus type 1, stamme mahoney (inaktiveret), poliovirus type 2, stamme mef-1 (inaktiveret), poliovirus type 3, stamme saukett (inaktiveret), tetanustoksoid, renset",
+    "haemagglutinin, filamentøst, haemophilus influenza type b polysaccharid, konjugeret til tetanus protein, hepatitis b virus overfladeantigen (rdna), poliovirus type 1, stamme mahoney (inaktiveret), poliovirus type 2, stamme mef-1 (inaktiveret), poliovirus type 3, stamme saukett (inaktiveret), polyribosylribitolphosphat (prp) fra haemophilus influenzae type b som prp-ompc, tetanustoksoid, renset",
+    "hexacima",
     "hexaxim",
     "hexyon"
   ],
@@ -14803,11 +13770,6 @@
     "alanin, arginin, asparaginsyre, calciumchloriddihydrat, cystein, glucosemonohydrat, glutaminsyre, glycin, histidin, isoleucin, kaliumacetat, leucin, lysinmonohydrat, magnesiumacetattetrahydrat, methionin, natriumchlorid, natriumglycerophosphat, hydreret, olivenolie, renset, ornithinmonohydrochlorid, phenylalanin, prolin, serin, soyaolie, renset, taurin, threonin, tryptophan, tyrosin, valin",
     "numeta g16e",
     "numeta g19e"
-  ],
-  [
-    "haemagglutinin, filamentøst, haemophilus influenza type b polysaccharid, konjugeret til tetanus protein, hepatitis b virus overfladeantigen (rdna), poliovirus type 1, stamme mahoney (inaktiveret), poliovirus type 2, stamme mef-1 (inaktiveret), poliovirus type 3, stamme saukett (inaktiveret), polyribosylribitolphosphat (prp) fra haemophilus influenzae type b som prp-ompc, tetanustoksoid, renset",
-    "hexacima",
-    "hexyon"
   ],
   [
     "alanin, arginin, calciumchloriddihydrat, fiskeolie, rig på omega-3-syrer, glucosemonohydrat, glycin, histidin, isoleucin, kaliumchlorid, leucin, lysinacetat, magnesiumsulfatheptahydrat, methionin, natriumacetattrihydrat, natriumglycerophosphat, hydreret, olivenolie, phenylalanin, prolin, serin, soyaolie, taurin, threonin, triglycerider, middelkædelængde, tryptophan, tyrosin, valin, zinksulfat heptahydrat",
