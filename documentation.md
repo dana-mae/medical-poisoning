@@ -1,3 +1,7 @@
-- `poisoning using medicine list.ipynb`  main work file
-- `medicine list.ipynb` creates `unique_medicine_names.txt` from `Afregistrerede_Laegemidler.xls` and `ListeOverGodkendteLaegemidler.xlsx`
+- `poisoning using medicine list.ipynb`  main work file, needs external files:
+    - `Alle Giftlinjen 2018-2022 (anonym) Aldersfordelt - Kopi.xlsx` 
+    - `unique_medicine_names.txt` created below
+- `medicine list.ipynb` creates `unique_medicine_names.txt` from:
+    - `Afregistrerede_Laegemidler.xls`
+    - `ListeOverGodkendteLaegemidler.xlsx`
 - `Old work` old files for reference
