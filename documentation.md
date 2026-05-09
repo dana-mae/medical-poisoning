@@ -4,4 +4,7 @@
 - `medicine list.ipynb` creates `unique_medicine_names.txt` from:
     - `Afregistrerede_Laegemidler.xls`
     - `ListeOverGodkendteLaegemidler.xlsx`
+- `list of equivalent names.ipynb` creates `equivalent_names.json` from:
+    - `Afregistrerede_Laegemidler.xls`
+    - `ListeOverGodkendteLaegemidler.xlsx`
 - `Old work` old files for reference
